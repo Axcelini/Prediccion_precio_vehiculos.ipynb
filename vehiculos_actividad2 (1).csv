@@ -1,0 +1,1001 @@
+marca,anio,kilometraje,potencia_hp,cilindrada,puertas,pasajeros,consumo_l_100km,bateria_kwh,autonomia_km,seguridad_score,equipamiento_score,transmision,tipo_combustible,tipo_vehiculo,precio
+Tesla,2018,102888,241,3.5,4,5,10.5,0.0,0,7.3,9.9,Manual,Gasolina,Hatchback,795100.0
+Chevrolet,2025,3188,330,3.5,4,5,9.9,0.0,0,8.0,9.3,Automática,Gasolina,SUV,1313900.0
+Hyundai,2021,85501,230,2.5,4,5,4.3,7.9,0,8.1,6.6,Automática,Híbrido,Pickup,666100.0
+Nissan,2021,15532,217,2.0,4,5,5.8,10.2,35,7.1,7.3,Directa (EV),Híbrido,Crossover,826700.0
+Tesla,2022,80570,237,3.0,4,5,8.2,0.0,0,9.6,7.1,CVT,Gasolina,Hatchback,801100.0
+Volkswagen,2025,24501,182,1.8,4,5,5.2,4.5,0,7.5,5.7,Automática,Híbrido,SUV,933700.0
+Ford,2022,85935,164,1.8,2,5,5.5,0.0,0,6.2,9.8,Manual,Gasolina,SUV,676700.0
+Tesla,2025,19561,173,2.0,4,5,5.6,0.0,0,7.2,7.0,Automática,Gasolina,Crossover,969500.0
+Hyundai,2018,89712,234,2.5,4,5,5.3,14.9,52,8.1,9.4,CVT,Híbrido,Sedán,674600.0
+Nissan,2026,5099,146,1.8,4,5,5.4,0.0,0,7.6,5.9,CVT,Gasolina,Sedán,891000.0
+Chevrolet,2023,34352,352,0.0,4,5,0.0,64.0,319,7.1,7.7,CVT,Eléctrico,SUV,1336800.0
+Hyundai,2020,103507,175,2.0,4,5,6.4,0.0,0,6.5,5.1,CVT,Gasolina,Sedán,345400.0
+Hyundai,2025,22273,232,2.5,5,5,5.0,12.9,45,9.3,8.8,Automática,Híbrido,Crossover,1157000.0
+Ford,2026,6240,201,2.0,4,5,5.6,0.0,0,10.0,7.9,Automática,Gasolina,SUV,1089700.0
+BMW,2023,31889,267,2.0,5,4,5.0,16.5,57,7.3,8.1,Automática,Híbrido,SUV,1235100.0
+Nissan,2024,56292,201,2.0,4,5,5.0,7.3,0,7.5,5.3,Automática,Híbrido,SUV,817700.0
+Honda,2018,133020,282,0.0,4,4,0.0,70.4,388,8.5,6.1,CVT,Eléctrico,SUV,647000.0
+Hyundai,2022,25241,283,3.0,4,5,7.4,0.0,0,8.9,5.4,Automática,Gasolina,Sedán,978400.0
+BMW,2022,44707,227,2.0,2,5,4.5,12.0,42,7.6,6.4,Automática,Híbrido,SUV,999700.0
+Honda,2021,86499,217,2.5,4,7,5.1,6.5,0,9.6,8.1,Automática,Híbrido,Hatchback,707300.0
+Nissan,2023,30806,139,1.6,4,5,4.6,5.1,0,8.2,7.8,Directa (EV),Híbrido,SUV,772200.0
+Toyota,2024,33515,224,2.0,4,4,4.8,14.5,50,7.8,8.1,Automática,Híbrido,Hatchback,1018600.0
+Volkswagen,2026,7901,246,2.5,2,5,4.2,12.5,43,8.6,7.7,Manual,Híbrido,Sedán,1139800.0
+BMW,2018,0,184,1.8,2,5,4.7,0.0,0,9.8,6.4,Automática,Gasolina,Sedán,843900.0
+Kia,2023,40487,121,1.5,5,5,4.5,0.0,0,9.2,6.2,Automática,Gasolina,Sedán,702900.0
+Toyota,2024,29312,108,1.2,4,5,4.5,0.0,0,6.2,5.7,Automática,Gasolina,SUV,678100.0
+Volkswagen,2020,67286,95,1.0,4,7,4.5,0.0,0,7.3,9.2,CVT,Gasolina,Hatchback,510500.0
+Ford,2025,19810,365,0.0,4,5,0.0,78.9,457,7.9,8.1,Manual,Eléctrico,Hatchback,1593600.0
+Tesla,2022,65835,181,1.6,4,7,5.1,14.1,49,7.3,5.9,Directa (EV),Híbrido,SUV,811400.0
+Chevrolet,2026,6284,341,0.0,5,4,0.0,80.9,444,8.8,5.9,Automática,Eléctrico,SUV,1537100.0
+Kia,2022,47271,270,3.5,2,4,9.0,0.0,0,9.3,9.4,Automática,Gasolina,Hatchback,972100.0
+Ford,2026,7265,478,0.0,4,5,0.0,91.2,486,8.9,8.7,Directa (EV),Eléctrico,Sedán,1800000.0
+Nissan,2021,67079,212,0.0,5,5,0.0,50.8,290,10.0,8.3,Automática,Eléctrico,Sedán,926500.0
+Ford,2026,5538,210,1.8,2,5,4.8,14.5,50,7.1,7.0,Manual,Híbrido,Crossover,1009500.0
+Tesla,2022,30378,220,1.8,4,7,5.5,15.8,55,9.5,6.3,CVT,Híbrido,SUV,1002900.0
+Nissan,2026,2874,138,1.2,5,5,4.5,0.0,0,9.1,9.9,Automática,Gasolina,Crossover,1052300.0
+Kia,2020,43388,357,0.0,4,2,0.0,97.2,549,7.4,9.0,CVT,Eléctrico,SUV,1398300.0
+Tesla,2021,72123,193,1.6,4,5,4.5,11.7,40,8.9,6.5,Automática,Híbrido,Hatchback,844700.0
+Honda,2026,5841,112,1.0,2,5,4.5,0.0,0,6.4,9.2,Automática,Gasolina,Sedán,912800.0
+Chevrolet,2023,21276,173,2.0,2,4,5.2,0.0,0,9.2,8.8,Automática,Gasolina,Sedán,897200.0
+Kia,2019,109377,461,0.0,4,5,0.0,92.5,422,8.1,6.5,CVT,Eléctrico,SUV,1284200.0
+Honda,2024,43743,388,0.0,5,5,0.0,96.4,481,7.2,7.1,Automática,Eléctrico,SUV,1480500.0
+Volkswagen,2019,72045,254,0.0,4,5,0.0,50.7,234,8.6,5.9,CVT,Eléctrico,Sedán,848300.0
+Kia,2019,37770,194,1.6,5,5,4.9,12.5,43,8.6,5.6,Directa (EV),Híbrido,Sedán,666200.0
+Volkswagen,2018,77889,156,1.8,5,5,4.5,0.0,0,6.8,8.6,Manual,Gasolina,Sedán,502700.0
+Nissan,2020,100215,199,2.5,4,7,7.0,0.0,0,6.1,6.3,Manual,Gasolina,Hatchback,518600.0
+Honda,2023,49679,311,3.0,4,5,10.0,0.0,0,7.7,9.1,Automática,Gasolina,SUV,1042100.0
+Chevrolet,2025,12465,305,3.5,4,5,8.6,0.0,0,8.3,10.0,Automática,Gasolina,Sedán,1302000.0
+Tesla,2026,9042,172,2.5,5,5,5.4,0.0,0,9.5,5.4,Automática,Gasolina,Sedán,981200.0
+Hyundai,2024,43482,348,3.5,5,5,10.0,0.0,0,9.7,7.4,Manual,Gasolina,Sedán,1077900.0
+Ford,2021,49873,183,2.5,2,5,7.5,0.0,0,8.1,9.0,Directa (EV),Gasolina,SUV,683300.0
+Toyota,2023,31593,448,0.0,4,4,0.0,76.3,423,9.0,8.9,Directa (EV),Eléctrico,Sedán,1602300.0
+Chevrolet,2022,43329,97,1.0,4,5,4.5,0.0,0,7.8,8.8,Directa (EV),Gasolina,Hatchback,727500.0
+Honda,2025,14956,439,0.0,5,5,0.0,79.1,386,9.0,6.7,Directa (EV),Eléctrico,Sedán,1666100.0
+Hyundai,2018,134318,232,2.5,4,5,5.0,4.9,0,6.8,7.3,Automática,Híbrido,Sedán,426800.0
+Chevrolet,2018,116461,230,2.5,4,4,6.1,0.0,0,7.5,8.0,CVT,Gasolina,Pickup,540900.0
+Honda,2023,54279,248,2.5,5,5,6.2,0.0,0,8.5,9.9,Directa (EV),Gasolina,Hatchback,1024000.0
+BMW,2019,110206,179,2.5,4,5,7.1,0.0,0,6.1,6.6,Automática,Gasolina,Sedán,479600.0
+BMW,2022,84861,194,2.5,4,2,8.4,0.0,0,8.9,9.6,Directa (EV),Gasolina,Hatchback,962600.0
+Volkswagen,2018,65980,226,1.6,2,4,5.5,16.2,56,9.3,6.3,Automática,Híbrido,SUV,672400.0
+Chevrolet,2024,33803,276,3.0,4,7,8.9,0.0,0,7.6,9.9,Manual,Gasolina,Hatchback,1126900.0
+BMW,2018,28090,88,1.0,4,5,4.5,0.0,0,7.8,8.4,CVT,Gasolina,SUV,669200.0
+Honda,2021,37026,145,1.5,5,5,4.5,0.0,0,9.4,7.3,Directa (EV),Gasolina,SUV,707700.0
+Volkswagen,2026,5850,448,0.0,4,5,0.0,97.9,523,9.1,8.1,Automática,Eléctrico,Crossover,1800000.0
+Honda,2018,116219,245,1.8,4,5,4.5,14.9,52,7.2,6.4,CVT,Híbrido,Sedán,608000.0
+Volkswagen,2021,63760,158,1.6,4,7,6.1,7.8,0,7.3,6.4,Manual,Híbrido,SUV,591500.0
+Chevrolet,2023,34059,85,1.0,4,5,4.5,0.0,0,8.7,5.6,Automática,Gasolina,SUV,630900.0
+Hyundai,2023,36548,210,2.5,4,5,4.4,4.3,0,8.3,5.6,CVT,Híbrido,Sedán,808200.0
+Tesla,2025,26216,236,2.0,5,4,4.3,17.6,61,6.6,6.7,Manual,Híbrido,Sedán,1124100.0
+Kia,2018,88942,276,2.5,5,5,4.8,17.9,62,7.2,8.8,CVT,Híbrido,Sedán,832400.0
+Hyundai,2024,47492,333,0.0,4,7,0.0,79.1,452,9.6,8.0,Automática,Eléctrico,SUV,1400900.0
+Nissan,2018,128996,185,2.0,4,5,5.6,0.0,0,8.8,5.5,Automática,Gasolina,SUV,329400.0
+Honda,2024,34575,373,0.0,4,5,0.0,79.6,441,9.9,9.3,Manual,Eléctrico,SUV,1584300.0
+Nissan,2020,46966,292,0.0,5,4,0.0,56.0,300,9.1,8.0,Automática,Eléctrico,Sedán,1203600.0
+Hyundai,2025,23611,311,3.0,4,5,9.6,0.0,0,9.8,9.8,Automática,Gasolina,SUV,1333900.0
+Volkswagen,2020,65161,196,2.0,5,5,6.2,0.0,0,6.9,8.4,Directa (EV),Gasolina,Crossover,719700.0
+Kia,2018,61389,389,0.0,4,5,0.0,83.7,473,9.1,5.9,Manual,Eléctrico,SUV,1292300.0
+Kia,2025,21077,125,1.5,5,7,4.5,0.0,0,6.1,7.4,CVT,Gasolina,SUV,770000.0
+Toyota,2020,41913,215,2.5,5,2,5.2,10.5,36,8.7,8.2,Automática,Híbrido,Hatchback,847900.0
+Kia,2019,67132,366,0.0,5,5,0.0,64.9,319,7.9,5.1,Automática,Eléctrico,Hatchback,1076000.0
+Tesla,2018,101656,204,2.5,4,7,4.1,2.3,0,7.4,5.1,Automática,Híbrido,SUV,485400.0
+Kia,2020,135678,211,3.0,4,5,7.8,0.0,0,9.4,5.6,Automática,Gasolina,Pickup,446100.0
+Hyundai,2019,69392,249,2.0,4,5,5.1,12.0,42,9.4,6.3,Manual,Híbrido,SUV,701700.0
+Toyota,2019,76253,227,2.5,5,5,6.1,0.0,0,6.1,7.1,Manual,Gasolina,Pickup,658600.0
+Hyundai,2023,52252,217,1.6,4,5,5.7,11.5,40,8.4,7.4,Automática,Híbrido,Sedán,857200.0
+Hyundai,2018,59897,261,3.5,5,4,11.6,0.0,0,7.5,5.7,Automática,Gasolina,Sedán,611100.0
+Ford,2019,103284,214,2.0,5,7,4.9,9.1,0,7.7,8.4,Automática,Híbrido,Sedán,663000.0
+Toyota,2023,58882,168,1.8,4,5,4.8,6.9,0,9.3,8.0,Automática,Híbrido,Hatchback,784700.0
+Hyundai,2020,70015,227,2.0,5,4,4.9,16.5,57,7.2,6.5,Automática,Híbrido,SUV,748500.0
+Ford,2021,88575,225,1.8,4,5,4.8,11.8,41,9.8,5.1,Directa (EV),Híbrido,Sedán,678000.0
+Ford,2018,111909,225,2.5,4,5,4.9,13.9,48,6.7,5.4,Manual,Híbrido,Sedán,485200.0
+Toyota,2025,13615,182,1.8,4,5,4.4,10.5,36,8.7,7.0,CVT,Híbrido,Crossover,968800.0
+Nissan,2024,28021,161,2.0,4,5,5.9,0.0,0,8.7,5.8,Automática,Gasolina,Hatchback,803800.0
+Volkswagen,2024,26202,223,1.8,5,7,6.1,14.9,52,7.0,6.9,Directa (EV),Híbrido,SUV,959700.0
+Tesla,2020,75721,157,2.0,4,4,4.5,0.0,0,7.3,8.1,Manual,Gasolina,SUV,666100.0
+Volkswagen,2020,81970,382,0.0,4,5,0.0,82.9,497,9.3,7.7,CVT,Eléctrico,SUV,1249500.0
+Kia,2019,107645,251,2.5,4,5,6.1,0.0,0,9.0,6.2,Automática,Gasolina,SUV,610200.0
+Tesla,2018,119294,108,1.0,5,5,4.5,0.0,0,7.3,6.7,Directa (EV),Gasolina,Crossover,381000.0
+Kia,2024,5682,193,1.8,2,5,5.4,11.6,40,8.1,8.1,CVT,Híbrido,Sedán,1045100.0
+Hyundai,2024,29026,122,1.2,5,4,4.5,0.0,0,6.2,9.3,Directa (EV),Gasolina,SUV,821000.0
+Honda,2019,44717,245,3.0,4,5,9.0,0.0,0,6.8,8.8,Automática,Gasolina,SUV,722200.0
+Toyota,2024,27242,161,1.6,4,5,4.4,3.8,0,7.9,7.8,Automática,Híbrido,SUV,822200.0
+Tesla,2025,17257,161,1.8,4,4,4.8,5.7,0,6.3,6.8,Automática,Híbrido,SUV,986600.0
+Tesla,2018,135189,195,2.0,4,5,4.5,6.9,0,9.4,6.8,Automática,Híbrido,SUV,485200.0
+Hyundai,2026,5939,87,1.0,5,5,4.5,0.0,0,8.9,9.4,Directa (EV),Gasolina,Sedán,911300.0
+Nissan,2024,32592,215,2.5,4,5,4.8,4.8,0,9.8,5.2,Automática,Híbrido,SUV,867500.0
+Ford,2020,98619,104,1.2,5,5,4.5,0.0,0,8.8,9.9,Automática,Gasolina,Sedán,495100.0
+Hyundai,2025,25366,184,1.6,2,5,5.0,10.9,38,9.8,8.3,Automática,Híbrido,Sedán,1060200.0
+BMW,2024,28769,167,1.6,4,5,5.5,5.5,0,8.2,8.4,Automática,Híbrido,Sedán,1018600.0
+Ford,2025,18565,185,2.0,5,5,4.7,10.7,37,8.4,5.2,Automática,Híbrido,Hatchback,942600.0
+Toyota,2023,42140,204,2.5,5,5,6.8,0.0,0,9.9,8.0,CVT,Gasolina,SUV,881500.0
+Ford,2026,4914,270,3.0,4,2,9.8,0.0,0,8.6,7.4,Manual,Gasolina,SUV,1202700.0
+Nissan,2022,40155,97,1.0,4,4,4.5,0.0,0,6.1,5.5,Automática,Gasolina,Hatchback,568700.0
+Ford,2020,18930,90,1.0,4,2,4.5,0.0,0,8.9,6.4,Automática,Gasolina,SUV,549500.0
+Toyota,2020,50006,192,2.5,4,4,7.1,0.0,0,9.6,9.5,Automática,Gasolina,SUV,856700.0
+Nissan,2018,41526,229,2.0,5,4,6.5,17.0,59,9.2,7.7,Automática,Híbrido,SUV,767000.0
+Volkswagen,2025,25531,110,1.0,5,7,4.5,0.0,0,8.3,7.1,CVT,Gasolina,SUV,786100.0
+Tesla,2019,95652,369,0.0,4,5,0.0,90.1,468,8.7,5.4,CVT,Eléctrico,SUV,1230200.0
+Tesla,2020,74725,250,2.5,5,4,7.0,0.0,0,10.0,8.6,CVT,Gasolina,SUV,924800.0
+Kia,2025,13695,238,1.6,4,5,5.9,14.4,50,6.4,8.5,CVT,Híbrido,Hatchback,1142800.0
+Volkswagen,2025,18178,147,1.8,4,7,5.2,1.7,0,8.7,8.1,Automática,Híbrido,Pickup,885300.0
+Volkswagen,2021,47344,217,2.5,4,5,7.6,0.0,0,7.1,7.6,Directa (EV),Gasolina,Sedán,787200.0
+Ford,2021,69828,115,1.2,4,5,4.5,0.0,0,8.6,7.2,CVT,Gasolina,Sedán,551600.0
+Tesla,2022,58423,180,2.0,4,5,5.1,4.5,0,8.4,8.0,Directa (EV),Híbrido,SUV,875200.0
+Toyota,2023,29940,108,1.2,4,5,4.5,0.0,0,6.6,6.2,Automática,Gasolina,SUV,636200.0
+Chevrolet,2022,38151,288,0.0,4,5,0.0,52.4,300,6.8,9.7,Directa (EV),Eléctrico,Sedán,1207800.0
+Chevrolet,2024,39621,165,1.8,4,5,5.5,5.7,0,8.5,7.9,CVT,Híbrido,Pickup,867100.0
+Nissan,2019,88414,309,0.0,5,5,0.0,60.9,359,6.5,6.6,CVT,Eléctrico,Sedán,902300.0
+Tesla,2024,22189,274,3.0,4,5,8.1,0.0,0,7.1,7.2,Automática,Gasolina,Crossover,1151800.0
+Tesla,2024,26294,166,1.8,4,5,4.9,4.0,0,9.3,9.0,CVT,Híbrido,Hatchback,1058900.0
+Chevrolet,2018,67639,231,2.5,5,5,3.8,5.0,0,7.3,5.8,Directa (EV),Híbrido,Hatchback,552200.0
+Tesla,2024,29328,240,1.6,5,5,5.0,15.0,52,8.0,6.5,CVT,Híbrido,Sedán,1076800.0
+Ford,2022,68969,187,2.0,5,4,6.4,0.0,0,9.8,8.4,Manual,Gasolina,Sedán,766100.0
+BMW,2020,77280,223,1.8,4,4,5.3,10.4,36,6.9,6.6,Directa (EV),Híbrido,SUV,760400.0
+Honda,2020,139454,88,1.2,4,5,4.5,0.0,0,7.6,9.0,Automática,Gasolina,Sedán,294100.0
+Volkswagen,2021,75269,225,2.0,4,7,4.0,13.7,47,8.4,5.7,Manual,Híbrido,SUV,682400.0
+Kia,2019,96898,171,2.0,4,5,5.5,0.0,0,9.0,8.8,Automática,Gasolina,SUV,525500.0
+Nissan,2019,62750,335,0.0,5,5,0.0,75.6,395,9.6,5.3,Directa (EV),Eléctrico,Sedán,1147100.0
+BMW,2018,93889,230,3.0,4,5,9.1,0.0,0,9.7,5.1,Automática,Gasolina,Sedán,576900.0
+Chevrolet,2022,39977,281,0.0,4,4,0.0,51.3,273,9.1,9.5,Manual,Eléctrico,Hatchback,1284400.0
+Volkswagen,2021,18355,412,0.0,4,4,0.0,99.7,478,6.9,7.9,CVT,Eléctrico,Sedán,1541500.0
+Tesla,2019,119227,434,0.0,4,5,0.0,95.1,502,6.1,6.8,CVT,Eléctrico,Sedán,1272600.0
+Kia,2020,64702,226,1.8,5,4,4.9,17.1,59,7.5,6.2,Manual,Híbrido,SUV,730300.0
+Tesla,2024,22395,121,1.0,4,4,4.5,0.0,0,6.6,8.1,Directa (EV),Gasolina,Crossover,912200.0
+Toyota,2024,32105,479,0.0,4,5,0.0,99.2,564,8.8,7.5,Directa (EV),Eléctrico,SUV,1739100.0
+Toyota,2021,77274,309,3.0,4,2,7.9,0.0,0,8.6,10.0,Automática,Gasolina,Sedán,974100.0
+Kia,2022,48226,223,2.0,4,5,5.2,13.5,47,6.2,9.9,Automática,Híbrido,SUV,949500.0
+Kia,2022,53953,159,2.0,4,5,5.6,1.4,0,9.3,8.2,Automática,Híbrido,Crossover,729400.0
+Chevrolet,2023,52446,164,1.6,4,5,5.1,2.2,0,7.0,7.2,Automática,Híbrido,Hatchback,756300.0
+Kia,2026,5279,90,1.0,4,5,4.5,0.0,0,7.7,7.5,Manual,Gasolina,SUV,791600.0
+Ford,2019,99070,252,2.5,5,5,5.2,11.0,38,8.7,8.4,Directa (EV),Híbrido,SUV,674400.0
+Tesla,2022,24133,259,0.0,5,5,0.0,55.7,291,7.7,5.5,CVT,Eléctrico,SUV,1177300.0
+BMW,2020,45725,152,1.8,5,5,4.5,0.0,0,7.8,6.6,Automática,Gasolina,Sedán,683000.0
+Hyundai,2021,79321,456,0.0,5,5,0.0,77.3,402,6.3,5.4,Automática,Eléctrico,SUV,1302600.0
+Kia,2023,23890,268,3.0,4,4,9.4,0.0,0,7.6,5.4,Manual,Gasolina,Hatchback,934700.0
+Nissan,2025,19404,174,1.5,4,4,4.5,0.0,0,9.1,6.0,Manual,Gasolina,Crossover,816400.0
+Toyota,2018,97002,214,2.0,4,5,4.6,0.0,0,9.7,7.4,Automática,Gasolina,Sedán,531900.0
+Ford,2025,15813,159,1.5,5,5,5.6,0.0,0,7.7,8.9,Directa (EV),Gasolina,Sedán,943700.0
+Volkswagen,2024,21715,275,0.0,5,5,0.0,59.0,336,7.7,7.4,Directa (EV),Eléctrico,SUV,1252300.0
+Hyundai,2018,132917,150,1.5,5,5,4.5,0.0,0,8.8,6.7,Automática,Gasolina,Hatchback,252700.0
+BMW,2019,141896,172,1.8,4,4,4.5,0.0,0,9.8,5.4,Directa (EV),Gasolina,Hatchback,428800.0
+Hyundai,2020,85804,142,1.5,5,5,4.5,0.0,0,7.1,7.8,Automática,Gasolina,Sedán,472800.0
+Kia,2018,112964,190,1.8,4,5,4.6,8.0,0,7.8,6.4,CVT,Híbrido,Sedán,417200.0
+Chevrolet,2026,4635,249,2.5,2,5,4.4,11.9,41,9.2,8.1,Automática,Híbrido,SUV,1149900.0
+Toyota,2025,10823,129,1.5,4,5,4.5,0.0,0,8.4,9.9,Automática,Gasolina,SUV,963300.0
+Toyota,2019,88807,312,3.5,2,5,9.6,0.0,0,6.4,5.6,Directa (EV),Gasolina,Pickup,639600.0
+Volkswagen,2026,4052,447,0.0,4,5,0.0,85.0,457,8.5,6.1,Automática,Eléctrico,SUV,1731100.0
+Chevrolet,2024,12273,171,2.0,4,4,5.4,0.0,0,6.7,7.4,CVT,Gasolina,Hatchback,889700.0
+Tesla,2026,7606,237,3.0,4,5,8.3,0.0,0,8.0,9.8,Automática,Gasolina,SUV,1306600.0
+Honda,2023,53930,292,3.0,4,5,8.9,0.0,0,8.1,8.9,Automática,Gasolina,Hatchback,1037000.0
+Ford,2023,29976,272,2.5,5,5,4.4,13.0,45,9.5,9.5,Automática,Híbrido,SUV,1131700.0
+Toyota,2021,71367,100,1.0,4,5,4.5,0.0,0,7.8,6.7,Automática,Gasolina,Hatchback,494700.0
+Nissan,2019,120058,194,1.8,4,4,4.5,9.9,0,7.1,10.0,CVT,Híbrido,Sedán,636300.0
+Toyota,2024,32050,140,1.8,5,5,5.5,0.0,0,6.9,5.5,Automática,Gasolina,SUV,718300.0
+Hyundai,2022,32523,313,0.0,5,5,0.0,71.0,383,9.5,5.3,CVT,Eléctrico,Sedán,1223000.0
+Toyota,2023,38739,189,2.5,4,2,8.3,0.0,0,6.7,9.3,CVT,Gasolina,SUV,884700.0
+Toyota,2019,129804,202,2.0,4,5,4.9,11.1,38,7.7,9.6,CVT,Híbrido,SUV,584700.0
+Honda,2022,58446,123,1.2,4,5,4.5,0.0,0,6.7,5.5,Automática,Gasolina,Sedán,570800.0
+Honda,2021,77860,168,1.8,2,5,4.5,0.0,0,9.1,5.6,Directa (EV),Gasolina,Crossover,586800.0
+BMW,2026,6683,220,2.5,4,5,4.5,5.9,0,7.9,5.2,Automática,Híbrido,Sedán,1168800.0
+Tesla,2023,30022,120,1.0,5,5,4.5,0.0,0,7.4,5.5,Automática,Gasolina,Hatchback,774900.0
+Nissan,2019,71374,371,0.0,4,7,0.0,79.8,456,7.4,6.0,Automática,Eléctrico,Crossover,1149100.0
+Toyota,2018,113521,407,0.0,5,5,0.0,87.5,513,9.4,9.9,Automática,Eléctrico,Sedán,1263900.0
+Toyota,2022,68703,270,0.0,5,7,0.0,59.9,291,8.2,8.3,Automática,Eléctrico,SUV,1053700.0
+Ford,2026,8199,178,2.0,5,7,6.2,0.0,0,8.9,8.9,Manual,Gasolina,Sedán,1094900.0
+Honda,2023,29986,151,1.6,4,2,5.4,2.7,0,9.6,8.9,Automática,Híbrido,Sedán,804700.0
+Nissan,2024,34331,287,3.0,5,5,6.8,0.0,0,9.6,7.7,Automática,Gasolina,SUV,1091600.0
+Volkswagen,2022,75366,373,0.0,4,5,0.0,78.9,356,7.3,9.0,CVT,Eléctrico,Crossover,1352300.0
+BMW,2023,28180,187,2.0,4,5,4.6,1.5,0,9.8,8.0,Automática,Híbrido,Sedán,1006700.0
+Tesla,2022,80761,352,0.0,2,5,0.0,89.9,530,6.1,6.6,Automática,Eléctrico,SUV,1350900.0
+Chevrolet,2026,9277,152,1.5,2,7,5.6,0.0,0,7.5,7.8,Automática,Gasolina,SUV,962000.0
+Tesla,2023,78751,240,2.0,5,5,5.2,12.4,43,9.6,7.7,CVT,Híbrido,Pickup,943000.0
+Hyundai,2025,19385,123,1.2,4,5,4.5,0.0,0,7.1,9.1,Automática,Gasolina,Sedán,935900.0
+Toyota,2019,97092,165,2.0,4,4,5.1,2.1,0,7.1,9.9,Automática,Híbrido,SUV,579200.0
+BMW,2026,7653,182,2.5,4,4,6.5,0.0,0,7.2,7.1,Manual,Gasolina,SUV,1173600.0
+Hyundai,2022,68360,142,1.6,4,5,5.4,5.3,0,8.4,8.8,CVT,Híbrido,SUV,721600.0
+Nissan,2024,41263,230,2.5,2,2,4.0,2.0,0,7.8,5.5,Manual,Híbrido,Crossover,869800.0
+Chevrolet,2018,128657,216,2.5,5,5,3.9,4.8,0,8.9,8.9,CVT,Híbrido,Hatchback,509000.0
+Honda,2022,52090,329,3.5,2,2,9.2,0.0,0,9.6,6.9,Automática,Gasolina,Sedán,979900.0
+BMW,2019,126659,208,1.8,4,5,5.2,14.4,50,8.7,5.2,Automática,Híbrido,SUV,577300.0
+BMW,2023,27002,224,3.0,4,5,7.1,0.0,0,6.8,6.8,Automática,Gasolina,SUV,1042700.0
+Toyota,2018,102198,217,3.0,4,5,8.5,0.0,0,9.7,8.1,Automática,Gasolina,SUV,593800.0
+Kia,2020,118657,152,1.2,4,5,4.5,0.0,0,7.1,5.6,Automática,Gasolina,SUV,372800.0
+BMW,2022,31495,249,3.0,4,5,7.7,0.0,0,6.6,9.6,Automática,Gasolina,SUV,1160700.0
+Ford,2021,51095,96,1.2,5,4,4.5,0.0,0,6.4,5.4,Manual,Gasolina,SUV,395900.0
+Chevrolet,2020,95465,146,1.6,4,4,5.2,5.2,0,8.3,9.7,CVT,Híbrido,Crossover,612400.0
+Chevrolet,2022,61090,126,1.5,2,5,4.5,0.0,0,6.5,8.5,Automática,Gasolina,Sedán,680300.0
+Ford,2025,12749,343,3.5,4,5,9.9,0.0,0,6.6,6.6,CVT,Gasolina,Crossover,1194400.0
+Volkswagen,2021,56843,387,0.0,5,5,0.0,68.5,385,7.2,7.0,Automática,Eléctrico,SUV,1223900.0
+Ford,2018,61853,234,2.5,4,5,5.8,0.0,0,7.1,8.7,Automática,Gasolina,SUV,747900.0
+Ford,2024,39804,182,1.8,2,5,5.3,7.0,0,8.4,8.0,Manual,Híbrido,Hatchback,914800.0
+Chevrolet,2025,16464,253,2.5,5,5,5.3,14.9,52,9.3,8.4,Automática,Híbrido,SUV,1180800.0
+Tesla,2020,124596,303,0.0,4,2,0.0,54.1,292,9.0,6.9,Automática,Eléctrico,SUV,989800.0
+Chevrolet,2023,43135,239,2.0,4,5,5.3,15.6,54,7.0,7.4,Automática,Híbrido,SUV,1003800.0
+Kia,2019,83407,171,1.8,2,7,6.2,5.9,0,7.0,9.9,Directa (EV),Híbrido,SUV,647900.0
+Toyota,2024,26831,273,0.0,4,5,0.0,52.7,290,9.9,6.1,CVT,Eléctrico,Crossover,1198300.0
+Hyundai,2025,16534,235,3.0,4,5,6.8,0.0,0,6.0,7.1,Automática,Gasolina,Hatchback,964100.0
+Tesla,2023,43551,497,0.0,4,5,0.0,93.1,438,9.5,6.5,CVT,Eléctrico,Sedán,1800000.0
+Honda,2023,77173,187,2.0,4,5,5.7,0.0,0,6.8,8.8,CVT,Gasolina,Sedán,782400.0
+Hyundai,2022,47900,512,0.0,4,5,0.0,89.2,508,9.8,8.8,Manual,Eléctrico,SUV,1726100.0
+Toyota,2025,16161,183,2.0,4,2,4.5,0.0,0,7.4,6.5,CVT,Gasolina,Sedán,886100.0
+Kia,2018,104230,232,2.0,5,4,4.9,12.0,42,7.8,5.4,Automática,Híbrido,SUV,557600.0
+Kia,2021,89986,151,2.0,5,5,5.6,0.0,0,8.8,5.1,Automática,Gasolina,Sedán,442000.0
+Honda,2021,34738,189,1.8,5,7,6.2,2.8,0,8.4,7.1,Manual,Híbrido,SUV,827800.0
+Tesla,2020,89832,231,3.0,2,5,8.4,0.0,0,7.3,7.1,Manual,Gasolina,Sedán,708600.0
+Volkswagen,2020,56746,334,0.0,4,4,0.0,59.5,332,8.2,9.9,Manual,Eléctrico,SUV,1201400.0
+Ford,2021,78171,444,0.0,4,4,0.0,80.2,416,8.9,7.3,Manual,Eléctrico,SUV,1341700.0
+Tesla,2018,85212,221,2.5,4,5,6.9,0.0,0,6.2,6.3,Directa (EV),Gasolina,SUV,586400.0
+Volkswagen,2019,20876,410,0.0,5,5,0.0,73.4,407,6.0,9.5,Directa (EV),Eléctrico,Crossover,1438800.0
+Kia,2026,6739,194,2.5,4,5,5.3,3.2,0,7.8,7.5,Directa (EV),Híbrido,Pickup,1017200.0
+Chevrolet,2019,100834,172,1.8,4,5,5.1,6.4,0,6.5,8.0,CVT,Híbrido,SUV,536200.0
+Toyota,2022,43576,145,1.5,4,2,5.7,0.0,0,8.7,5.5,Directa (EV),Gasolina,Sedán,667100.0
+Honda,2026,4723,159,1.8,4,5,5.6,0.0,0,6.9,6.9,Automática,Gasolina,Hatchback,924600.0
+Toyota,2026,3377,182,2.0,4,5,6.3,0.0,0,7.7,9.7,Automática,Gasolina,Crossover,1209200.0
+Nissan,2025,22638,349,3.5,4,5,8.3,0.0,0,6.8,7.9,Automática,Gasolina,Hatchback,1206000.0
+Nissan,2018,131995,290,0.0,4,5,0.0,52.8,257,8.2,6.7,CVT,Eléctrico,Sedán,728400.0
+Tesla,2018,72112,191,2.0,5,5,7.2,0.0,0,6.5,8.1,Manual,Gasolina,Crossover,630400.0
+Kia,2026,4920,305,0.0,2,2,0.0,75.3,396,6.1,9.6,CVT,Eléctrico,Sedán,1557000.0
+Kia,2025,17620,262,3.5,5,5,9.3,0.0,0,6.2,6.4,Automática,Gasolina,Hatchback,1017300.0
+Ford,2026,10541,171,1.6,5,4,5.2,11.2,39,9.8,7.5,Automática,Híbrido,Crossover,990100.0
+Ford,2024,35451,200,1.6,4,5,4.9,9.1,0,6.6,9.8,CVT,Híbrido,Sedán,982100.0
+Ford,2020,53471,457,0.0,5,5,0.0,94.8,547,8.8,5.9,Automática,Eléctrico,Crossover,1450300.0
+Chevrolet,2020,85898,146,1.5,2,5,4.5,0.0,0,6.3,8.6,Automática,Gasolina,SUV,516400.0
+Hyundai,2019,48699,181,2.0,5,5,4.6,0.0,0,6.4,8.1,Automática,Gasolina,Crossover,621200.0
+BMW,2022,66923,227,2.5,4,5,7.1,0.0,0,8.0,8.4,Automática,Gasolina,Sedán,952600.0
+Hyundai,2020,121564,137,1.8,4,2,4.5,0.0,0,7.9,6.8,CVT,Gasolina,Crossover,323700.0
+Toyota,2023,65517,116,1.5,4,5,4.5,0.0,0,9.8,6.6,Automática,Gasolina,Sedán,570800.0
+Hyundai,2019,112046,74,1.0,2,5,4.5,0.0,0,9.8,8.4,Manual,Gasolina,Hatchback,336700.0
+Chevrolet,2020,62831,163,1.5,5,5,4.7,0.0,0,9.1,6.1,Automática,Gasolina,SUV,600500.0
+Toyota,2022,30583,239,2.0,2,5,5.2,13.9,48,8.4,7.1,CVT,Híbrido,SUV,945800.0
+Hyundai,2018,54393,123,1.5,4,5,4.5,0.0,0,7.8,5.9,Automática,Gasolina,Sedán,423900.0
+Chevrolet,2018,6588,107,1.0,4,5,4.5,0.0,0,7.4,5.0,Manual,Gasolina,Hatchback,496800.0
+BMW,2026,7387,152,1.8,5,5,5.9,0.0,0,9.8,9.9,CVT,Gasolina,Sedán,1227300.0
+Hyundai,2024,28971,233,2.5,4,4,4.5,13.2,46,8.4,7.2,Automática,Híbrido,SUV,1033000.0
+Chevrolet,2018,132913,362,0.0,4,5,0.0,61.7,347,8.3,9.8,Directa (EV),Eléctrico,Sedán,1018300.0
+Ford,2025,26568,164,1.8,4,5,5.1,4.5,0,6.9,5.7,Manual,Híbrido,Crossover,814100.0
+Kia,2020,80597,247,2.5,5,5,4.7,11.7,40,6.2,7.9,Automática,Híbrido,Sedán,739200.0
+Ford,2025,18875,90,1.0,2,4,4.5,0.0,0,9.8,6.0,Automática,Gasolina,Sedán,718300.0
+Kia,2022,45642,239,2.0,4,5,5.9,14.9,52,7.3,9.0,Directa (EV),Híbrido,Sedán,951300.0
+Honda,2018,90233,187,2.5,4,4,8.2,0.0,0,7.8,8.9,CVT,Gasolina,SUV,525600.0
+Honda,2024,37284,123,1.2,5,7,4.5,0.0,0,6.5,5.6,Automática,Gasolina,Sedán,661900.0
+Honda,2022,50861,147,1.8,4,5,4.9,5.5,0,9.3,9.6,Automática,Híbrido,SUV,786300.0
+BMW,2023,37533,429,0.0,4,5,0.0,76.9,460,6.1,6.0,CVT,Eléctrico,Pickup,1589700.0
+Ford,2023,41743,241,2.5,4,5,5.9,0.0,0,9.3,8.1,CVT,Gasolina,Hatchback,972600.0
+Kia,2025,23317,209,2.0,5,5,5.5,8.0,0,6.6,9.9,CVT,Híbrido,SUV,1070400.0
+Chevrolet,2026,4614,263,2.5,5,5,4.8,16.4,57,9.5,9.4,Automática,Híbrido,Sedán,1280200.0
+Toyota,2019,88004,106,1.5,4,5,4.7,0.0,0,8.9,9.8,CVT,Gasolina,SUV,532400.0
+Chevrolet,2026,6490,296,3.5,4,5,9.5,0.0,0,6.7,6.7,Automática,Gasolina,Sedán,1155700.0
+Toyota,2026,8320,214,3.0,4,5,7.6,0.0,0,8.3,5.5,Automática,Gasolina,Hatchback,973900.0
+Nissan,2024,27607,138,1.5,2,7,4.5,0.0,0,7.3,5.9,Manual,Gasolina,Sedán,785900.0
+Chevrolet,2018,77594,202,2.0,4,5,4.5,0.0,0,6.7,7.5,Directa (EV),Gasolina,SUV,529600.0
+Hyundai,2024,25156,110,1.0,4,5,4.5,0.0,0,9.4,9.0,Automática,Gasolina,SUV,765100.0
+Hyundai,2022,72955,112,1.0,4,5,4.5,0.0,0,7.6,5.8,Automática,Gasolina,Pickup,469800.0
+Tesla,2023,70466,164,1.6,5,5,4.7,6.6,0,7.6,8.3,CVT,Híbrido,Sedán,915300.0
+Ford,2024,16862,174,2.0,4,5,4.5,4.0,0,6.7,6.6,Manual,Híbrido,SUV,849000.0
+Toyota,2022,34284,321,0.0,4,4,0.0,81.7,382,7.5,6.7,CVT,Eléctrico,Sedán,1267400.0
+Toyota,2024,28312,168,1.5,4,5,4.5,0.0,0,9.5,8.3,CVT,Gasolina,Hatchback,902300.0
+Ford,2026,6221,207,2.5,4,7,4.9,4.1,0,7.5,7.3,Automática,Híbrido,Crossover,1087300.0
+BMW,2020,98461,423,0.0,4,5,0.0,92.7,418,9.8,9.1,Directa (EV),Eléctrico,SUV,1494100.0
+Tesla,2025,12653,211,2.0,4,5,5.2,9.7,0,9.8,5.8,CVT,Híbrido,SUV,1142000.0
+BMW,2019,58106,120,1.2,4,2,4.5,0.0,0,6.6,8.9,Directa (EV),Gasolina,Crossover,660900.0
+BMW,2024,31380,182,2.0,5,5,5.0,11.2,39,6.7,5.3,CVT,Híbrido,SUV,957200.0
+BMW,2019,82247,104,1.2,5,5,4.5,0.0,0,9.5,6.0,Directa (EV),Gasolina,SUV,504200.0
+Ford,2021,86387,211,2.5,4,5,8.8,0.0,0,7.6,8.3,Automática,Gasolina,SUV,657200.0
+BMW,2024,34873,198,1.6,2,2,5.7,12.1,42,6.0,9.3,Automática,Híbrido,SUV,1101900.0
+Hyundai,2020,92439,202,1.8,4,5,5.2,14.5,50,7.1,6.3,Directa (EV),Híbrido,Sedán,565800.0
+Honda,2019,86865,209,2.5,4,5,7.1,0.0,0,8.4,6.6,Automática,Gasolina,Hatchback,501000.0
+Nissan,2024,53555,356,0.0,4,4,0.0,59.0,300,9.2,7.7,Automática,Eléctrico,SUV,1347600.0
+Toyota,2018,73516,184,1.6,5,5,5.3,9.7,0,6.5,6.1,CVT,Híbrido,Sedán,461100.0
+Toyota,2025,21664,224,2.5,5,5,6.8,0.0,0,6.4,9.1,CVT,Gasolina,Hatchback,1065100.0
+Nissan,2020,44988,425,0.0,5,5,0.0,88.8,445,9.7,8.9,Automática,Eléctrico,SUV,1506300.0
+Ford,2019,57795,97,1.0,4,4,4.5,0.0,0,9.0,5.7,Directa (EV),Gasolina,Sedán,468800.0
+Chevrolet,2020,62209,477,0.0,5,4,0.0,87.3,501,8.4,7.3,CVT,Eléctrico,SUV,1456200.0
+Ford,2022,83327,194,1.8,5,5,5.3,7.2,0,9.1,8.9,Manual,Híbrido,Pickup,764200.0
+Toyota,2025,19583,294,3.0,4,4,7.8,0.0,0,7.7,6.7,CVT,Gasolina,Pickup,1041400.0
+Toyota,2024,24095,235,2.5,4,5,3.9,3.5,0,9.0,8.2,Automática,Híbrido,Crossover,998600.0
+Nissan,2024,33744,247,1.8,5,5,4.1,17.5,61,7.5,5.3,Automática,Híbrido,Pickup,901200.0
+BMW,2024,30351,275,2.5,4,5,5.2,11.3,39,7.0,8.0,Automática,Híbrido,Sedán,1237100.0
+Ford,2025,15048,448,0.0,4,5,0.0,84.8,427,8.9,5.8,Manual,Eléctrico,SUV,1655400.0
+Kia,2018,54514,172,1.8,4,5,4.3,9.2,0,7.7,9.2,Manual,Híbrido,Hatchback,719600.0
+Nissan,2021,97647,170,2.0,4,5,5.2,3.1,0,9.9,6.8,CVT,Híbrido,SUV,467300.0
+Hyundai,2023,44937,442,0.0,4,5,0.0,84.2,382,7.4,6.4,CVT,Eléctrico,SUV,1559600.0
+Toyota,2026,10347,201,1.6,5,4,4.6,15.6,54,9.7,9.2,Manual,Híbrido,SUV,1170000.0
+Nissan,2019,118209,186,2.0,4,4,4.7,0.0,0,9.7,5.3,CVT,Gasolina,SUV,418500.0
+Ford,2018,120744,267,0.0,4,5,0.0,54.0,254,7.0,7.0,Automática,Eléctrico,Crossover,684600.0
+Toyota,2019,76943,241,2.5,2,5,6.4,0.0,0,9.2,6.9,Automática,Gasolina,SUV,675600.0
+Chevrolet,2024,19046,283,2.5,4,5,4.8,16.8,58,7.7,6.4,Directa (EV),Híbrido,SUV,1082300.0
+Nissan,2020,72338,362,0.0,4,5,0.0,77.3,450,9.7,9.6,Automática,Eléctrico,Crossover,1271400.0
+Tesla,2019,56271,201,1.6,2,5,4.6,15.9,55,7.8,8.8,Automática,Híbrido,SUV,836700.0
+Toyota,2024,36501,186,1.6,4,4,4.9,6.8,0,9.0,5.3,CVT,Híbrido,Sedán,780100.0
+Ford,2019,138979,257,1.6,4,5,5.2,16.2,56,7.9,8.6,Automática,Híbrido,SUV,632500.0
+Honda,2020,71216,294,3.0,4,5,7.4,0.0,0,6.9,7.6,Directa (EV),Gasolina,Hatchback,775100.0
+Kia,2024,39444,294,0.0,2,5,0.0,52.5,256,6.8,9.5,Automática,Eléctrico,Hatchback,1246600.0
+Volkswagen,2021,50836,154,1.8,4,5,6.2,0.0,0,7.7,6.6,Automática,Gasolina,Hatchback,629300.0
+BMW,2018,91716,109,1.2,4,4,4.5,0.0,0,9.0,7.9,Automática,Gasolina,Hatchback,429400.0
+Volkswagen,2022,39330,166,2.0,5,5,5.4,0.0,0,8.4,7.5,Manual,Gasolina,Sedán,795000.0
+Ford,2026,1733,241,1.6,4,5,5.8,16.5,57,8.8,7.4,Automática,Híbrido,Pickup,1250600.0
+Hyundai,2025,17780,174,1.6,4,5,4.5,6.5,0,7.1,7.3,Manual,Híbrido,Pickup,883700.0
+Hyundai,2026,6256,426,0.0,4,5,0.0,86.3,491,7.9,6.0,Directa (EV),Eléctrico,Sedán,1727100.0
+Honda,2026,8131,190,1.8,2,7,5.0,0.0,0,6.2,8.8,Directa (EV),Gasolina,Sedán,1059500.0
+BMW,2024,37954,190,2.0,5,5,5.7,0.0,0,9.3,7.3,Automática,Gasolina,Crossover,970300.0
+Tesla,2021,83796,232,2.5,4,5,6.4,0.0,0,10.0,9.8,Automática,Gasolina,Pickup,926600.0
+Honda,2022,36467,141,1.2,4,4,4.5,0.0,0,7.6,6.3,Manual,Gasolina,Pickup,687000.0
+Volkswagen,2018,117622,201,2.5,4,5,5.0,4.4,0,6.0,8.4,Directa (EV),Híbrido,Pickup,473500.0
+Honda,2018,155808,93,1.0,2,4,4.5,0.0,0,6.7,9.7,Directa (EV),Gasolina,SUV,150000.0
+Volkswagen,2020,87876,98,1.0,5,7,4.5,0.0,0,8.6,8.3,Automática,Gasolina,SUV,530300.0
+Toyota,2025,28971,173,2.0,4,5,5.9,0.0,0,8.4,9.4,CVT,Gasolina,SUV,988500.0
+Hyundai,2019,150568,122,1.2,4,5,4.5,0.0,0,9.2,9.1,Automática,Gasolina,Sedán,330600.0
+Toyota,2021,60093,265,2.5,2,5,7.9,0.0,0,7.0,6.8,Automática,Gasolina,Hatchback,756600.0
+Kia,2019,69091,222,2.5,4,5,6.4,0.0,0,9.1,8.0,Automática,Gasolina,SUV,678100.0
+BMW,2022,40293,187,1.8,5,5,5.5,9.8,0,8.8,5.8,Automática,Híbrido,SUV,927300.0
+Tesla,2026,2967,259,0.0,4,5,0.0,51.1,257,7.3,7.7,Automática,Eléctrico,SUV,1466400.0
+Volkswagen,2018,84374,194,1.6,4,7,4.8,15.3,53,8.2,6.2,Automática,Híbrido,SUV,550400.0
+Tesla,2022,75737,445,0.0,2,5,0.0,86.4,466,6.6,8.7,CVT,Eléctrico,Sedán,1550100.0
+Volkswagen,2026,1591,111,1.2,4,7,4.5,0.0,0,7.8,7.6,Automática,Gasolina,Sedán,883100.0
+Ford,2018,66726,239,2.5,4,5,4.7,12.1,42,9.5,7.1,Manual,Híbrido,Sedán,705100.0
+Honda,2026,5745,266,0.0,4,5,0.0,53.4,312,7.7,6.3,Automática,Eléctrico,Sedán,1329600.0
+Kia,2025,12736,201,2.5,4,5,7.3,0.0,0,9.4,10.0,Automática,Gasolina,Crossover,1090200.0
+Hyundai,2021,54399,327,0.0,4,5,0.0,59.6,317,8.4,5.4,Automática,Eléctrico,Sedán,1138200.0
+Volkswagen,2022,44778,192,2.0,4,2,4.5,0.0,0,6.8,5.2,Automática,Gasolina,Sedán,651400.0
+Tesla,2022,49364,155,1.5,5,5,4.6,0.0,0,8.3,6.1,Manual,Gasolina,SUV,777400.0
+Kia,2023,31787,186,2.0,4,5,5.5,0.0,0,8.0,9.9,Automática,Gasolina,SUV,936400.0
+Chevrolet,2024,21887,146,1.6,4,5,5.3,3.3,0,7.6,9.9,Manual,Híbrido,Sedán,884100.0
+Chevrolet,2025,23605,147,1.8,4,5,5.4,2.0,0,6.5,8.3,Automática,Híbrido,Hatchback,876900.0
+Toyota,2025,24297,218,1.6,4,7,5.4,15.3,53,7.7,9.4,CVT,Híbrido,Hatchback,1089600.0
+Hyundai,2019,48583,178,2.0,4,5,4.5,0.0,0,6.3,6.1,CVT,Gasolina,Sedán,619500.0
+Ford,2026,480,192,2.5,5,5,6.2,0.0,0,6.4,9.9,Automática,Gasolina,Sedán,1106900.0
+Tesla,2024,40633,244,3.0,4,4,8.7,0.0,0,7.7,5.7,Automática,Gasolina,Crossover,1006500.0
+Honda,2021,38966,110,1.0,4,2,4.5,0.0,0,7.2,5.5,Automática,Gasolina,Hatchback,494800.0
+Honda,2021,70680,333,0.0,4,5,0.0,90.6,473,9.7,5.6,Manual,Eléctrico,SUV,1199500.0
+Tesla,2025,8605,118,1.2,4,5,4.5,0.0,0,7.5,7.9,Automática,Gasolina,Sedán,966800.0
+BMW,2021,94550,498,0.0,2,5,0.0,98.5,550,9.0,8.9,Manual,Eléctrico,SUV,1650700.0
+Ford,2023,77611,376,0.0,5,4,0.0,88.1,474,8.1,6.8,Manual,Eléctrico,SUV,1428400.0
+Kia,2022,57290,252,3.0,4,5,9.0,0.0,0,8.8,9.9,Directa (EV),Gasolina,Sedán,935400.0
+Volkswagen,2020,75553,202,1.8,4,5,5.0,10.1,35,7.0,7.2,Manual,Híbrido,SUV,640600.0
+BMW,2019,80335,106,1.2,4,5,4.5,0.0,0,9.8,5.8,Manual,Gasolina,SUV,536100.0
+Volkswagen,2026,7563,265,3.5,4,2,10.8,0.0,0,8.1,7.3,Automática,Gasolina,SUV,1096200.0
+Volkswagen,2026,7135,238,2.5,4,4,7.2,0.0,0,9.3,8.4,Directa (EV),Gasolina,Hatchback,1161700.0
+BMW,2018,136118,147,1.8,4,5,5.4,5.9,0,7.5,9.2,CVT,Híbrido,Hatchback,520200.0
+Toyota,2020,61674,302,3.0,4,4,7.9,0.0,0,6.4,7.3,Automática,Gasolina,SUV,827900.0
+Chevrolet,2025,20040,226,2.0,4,7,5.4,9.7,0,8.7,8.0,CVT,Híbrido,Hatchback,1149900.0
+Volkswagen,2023,34405,213,1.8,4,5,5.2,15.7,54,6.0,6.3,Automática,Híbrido,Sedán,834600.0
+BMW,2022,34961,224,2.5,4,4,6.8,0.0,0,7.9,8.2,CVT,Gasolina,Hatchback,1054800.0
+BMW,2022,53261,228,2.5,4,4,4.1,6.7,0,6.8,9.9,CVT,Híbrido,Sedán,1069500.0
+Nissan,2023,29084,313,2.5,4,5,4.5,17.5,61,8.5,5.2,Automática,Híbrido,Sedán,1096400.0
+Toyota,2024,41737,220,2.5,4,4,6.1,0.0,0,9.9,9.4,CVT,Gasolina,SUV,1016400.0
+Hyundai,2018,72694,92,1.0,4,5,4.5,0.0,0,7.9,7.8,Automática,Gasolina,SUV,456700.0
+Nissan,2026,6727,197,2.0,2,7,5.6,5.6,0,9.3,6.3,Automática,Híbrido,Crossover,1010900.0
+Nissan,2020,62311,109,1.0,5,5,4.5,0.0,0,8.0,9.8,Automática,Gasolina,SUV,627200.0
+Tesla,2021,72095,222,2.0,4,5,6.2,14.5,50,8.0,7.4,CVT,Híbrido,Sedán,922900.0
+Chevrolet,2018,84184,85,1.0,4,2,4.5,0.0,0,9.7,6.7,Automática,Gasolina,SUV,308400.0
+BMW,2020,45312,159,2.0,4,5,6.1,0.0,0,9.6,5.9,Automática,Gasolina,SUV,762200.0
+Chevrolet,2019,104513,252,3.0,4,5,7.5,0.0,0,9.1,6.2,CVT,Gasolina,SUV,570600.0
+Ford,2019,82937,104,1.2,4,5,4.5,0.0,0,7.2,9.2,Automática,Gasolina,SUV,426800.0
+Tesla,2018,111723,172,1.8,2,5,4.4,6.9,0,8.2,8.1,Automática,Híbrido,Hatchback,532900.0
+Hyundai,2025,15426,146,1.8,4,5,5.5,0.0,0,6.9,9.6,Automática,Gasolina,Pickup,952600.0
+Chevrolet,2020,43473,234,2.0,4,5,4.8,14.1,49,7.8,6.2,Automática,Híbrido,Crossover,819800.0
+Honda,2020,106162,440,0.0,4,4,0.0,85.0,418,7.9,5.6,Automática,Eléctrico,Sedán,1137200.0
+Volkswagen,2023,52314,156,1.6,5,5,4.2,6.1,0,9.3,5.0,Automática,Híbrido,Hatchback,693200.0
+Ford,2025,14598,210,2.5,4,5,4.4,6.6,0,9.6,7.5,Directa (EV),Híbrido,SUV,1072700.0
+Toyota,2026,6139,279,3.5,4,5,11.2,0.0,0,7.7,10.0,CVT,Gasolina,SUV,1217900.0
+Hyundai,2026,8084,202,2.5,4,4,7.3,0.0,0,6.1,8.5,Automática,Gasolina,SUV,1023400.0
+Ford,2021,55945,146,1.6,4,5,5.6,5.0,0,9.4,6.5,Automática,Híbrido,Crossover,643200.0
+Volkswagen,2022,48566,224,3.0,4,5,8.5,0.0,0,6.7,9.4,Automática,Gasolina,Hatchback,904200.0
+Tesla,2019,97308,245,2.0,4,4,4.9,13.7,47,8.5,8.9,Manual,Híbrido,Crossover,903900.0
+Volkswagen,2026,5081,142,1.8,4,5,5.1,0.0,0,6.1,5.1,Automática,Gasolina,Hatchback,818700.0
+Nissan,2025,23142,169,1.6,4,5,5.3,7.9,0,7.6,9.1,Automática,Híbrido,Crossover,958200.0
+Volkswagen,2020,73608,331,0.0,5,7,0.0,51.8,291,9.9,6.5,Directa (EV),Eléctrico,Hatchback,1107700.0
+Nissan,2026,4431,247,0.0,5,4,0.0,58.0,307,6.4,5.7,Automática,Eléctrico,SUV,1229400.0
+Tesla,2020,93824,194,1.8,4,5,4.6,6.5,0,7.7,6.1,Automática,Híbrido,Sedán,682100.0
+Kia,2026,3715,180,1.8,4,5,5.5,9.3,0,7.2,7.3,Directa (EV),Híbrido,SUV,1097400.0
+Nissan,2019,150446,216,2.0,4,7,5.6,6.3,0,9.6,7.1,CVT,Híbrido,Sedán,467900.0
+Toyota,2026,9164,190,2.5,4,5,4.7,3.9,0,9.5,6.4,Automática,Híbrido,SUV,1033800.0
+Volkswagen,2025,21080,164,1.8,4,7,4.6,0.0,0,7.0,5.9,CVT,Gasolina,SUV,878500.0
+Volkswagen,2026,6858,193,2.0,4,7,5.0,0.0,0,6.3,8.8,Automática,Gasolina,SUV,1075800.0
+Toyota,2022,60883,111,1.0,5,5,4.5,0.0,0,8.5,10.0,CVT,Gasolina,Crossover,730900.0
+Honda,2019,75327,267,0.0,4,5,0.0,60.5,284,7.3,8.9,Automática,Eléctrico,Crossover,971900.0
+BMW,2025,19783,347,3.5,4,7,9.4,0.0,0,8.7,6.5,CVT,Gasolina,Sedán,1347200.0
+Kia,2023,29076,177,1.8,4,5,5.4,1.9,0,6.1,6.2,Directa (EV),Híbrido,SUV,780400.0
+Hyundai,2025,21022,196,2.5,5,5,4.7,1.9,0,6.5,6.1,Directa (EV),Híbrido,SUV,845500.0
+Nissan,2022,69621,184,1.6,4,5,5.1,10.3,36,8.7,5.7,Directa (EV),Híbrido,SUV,682900.0
+Toyota,2019,78657,217,2.5,4,5,4.4,3.3,0,6.8,7.8,Manual,Híbrido,Hatchback,556100.0
+Tesla,2023,33668,120,1.2,4,2,4.5,0.0,0,9.4,8.0,Automática,Gasolina,SUV,896500.0
+Nissan,2022,32175,211,1.8,5,5,5.5,8.5,0,6.2,8.5,Automática,Híbrido,SUV,881800.0
+BMW,2022,80243,388,0.0,2,5,0.0,81.4,392,6.9,8.4,CVT,Eléctrico,Pickup,1520100.0
+Tesla,2018,84467,187,2.5,5,5,6.2,0.0,0,10.0,6.5,Directa (EV),Gasolina,Hatchback,638100.0
+Ford,2019,84037,178,1.8,4,4,5.4,0.0,0,7.7,6.7,Automática,Gasolina,Sedán,535500.0
+Volkswagen,2025,19800,195,1.8,4,5,5.1,14.7,51,8.8,8.4,Directa (EV),Híbrido,Hatchback,1012500.0
+Ford,2020,85337,328,0.0,4,5,0.0,71.7,416,6.7,6.7,CVT,Eléctrico,SUV,1067500.0
+Nissan,2020,97410,155,1.8,4,4,5.6,0.0,0,8.4,6.1,Directa (EV),Gasolina,Sedán,425300.0
+BMW,2025,15724,190,2.0,2,5,4.7,8.7,0,8.9,6.9,Directa (EV),Híbrido,Sedán,1136000.0
+Kia,2025,11167,297,0.0,5,5,0.0,52.9,261,7.3,6.4,Automática,Eléctrico,SUV,1268500.0
+Nissan,2019,50590,276,3.0,4,7,9.3,0.0,0,9.3,5.4,Automática,Gasolina,SUV,741300.0
+Toyota,2025,14524,387,0.0,4,2,0.0,83.7,378,8.4,9.2,Automática,Eléctrico,Sedán,1640600.0
+Chevrolet,2018,69637,190,2.0,4,5,4.9,8.3,0,7.6,9.3,Automática,Híbrido,SUV,665800.0
+Nissan,2023,37749,212,2.0,4,7,6.3,5.6,0,8.2,6.1,Manual,Híbrido,Hatchback,905800.0
+Volkswagen,2025,25845,196,1.6,4,7,4.4,12.9,45,8.3,5.3,CVT,Híbrido,Sedán,944200.0
+Volkswagen,2020,68190,283,3.0,4,5,10.3,0.0,0,6.7,8.7,Directa (EV),Gasolina,Sedán,815800.0
+Nissan,2025,15734,300,3.5,4,5,9.7,0.0,0,7.6,6.1,Manual,Gasolina,Hatchback,1000200.0
+Tesla,2018,101442,156,1.8,4,4,5.2,0.0,0,7.4,7.0,Automática,Gasolina,Sedán,488500.0
+Chevrolet,2026,5188,107,1.0,5,5,4.5,0.0,0,7.6,5.3,Automática,Gasolina,Crossover,818100.0
+Toyota,2026,5865,289,3.5,4,5,8.5,0.0,0,9.0,6.1,Automática,Gasolina,SUV,1132900.0
+Nissan,2022,63735,367,0.0,5,4,0.0,73.8,415,7.9,9.0,Automática,Eléctrico,SUV,1405600.0
+Tesla,2021,85464,315,0.0,4,5,0.0,51.5,287,9.8,9.0,Manual,Eléctrico,Sedán,1240100.0
+Volkswagen,2023,56044,213,1.8,4,4,4.8,15.1,52,7.2,6.0,Automática,Híbrido,Sedán,844700.0
+Volkswagen,2024,50568,405,0.0,4,5,0.0,98.6,519,7.7,6.7,Automática,Eléctrico,Sedán,1524700.0
+BMW,2022,64248,242,1.8,4,7,4.9,15.3,53,9.1,5.7,Automática,Híbrido,Sedán,925800.0
+Nissan,2026,10468,207,2.5,5,4,7.1,0.0,0,8.2,5.4,Manual,Gasolina,SUV,949700.0
+Chevrolet,2020,57811,187,1.8,2,7,5.9,0.0,0,8.2,10.0,Automática,Gasolina,Sedán,734100.0
+Honda,2024,50912,242,2.0,2,7,5.1,17.8,62,6.2,8.3,Automática,Híbrido,SUV,1024600.0
+Chevrolet,2022,47153,180,1.8,5,5,5.2,6.8,0,7.6,7.7,Automática,Híbrido,SUV,757400.0
+Volkswagen,2024,27179,117,1.2,4,4,4.5,0.0,0,7.1,8.8,Directa (EV),Gasolina,Sedán,823600.0
+Volkswagen,2019,86403,239,2.5,4,5,3.9,13.1,45,10.0,9.2,Automática,Híbrido,Sedán,762800.0
+Ford,2021,61190,94,1.0,4,5,4.5,0.0,0,7.2,9.0,Manual,Gasolina,Sedán,535900.0
+Volkswagen,2019,92575,216,1.6,5,5,4.5,14.1,49,9.5,5.1,CVT,Híbrido,Sedán,590200.0
+Toyota,2024,24199,361,0.0,4,5,0.0,72.9,359,8.7,5.9,Manual,Eléctrico,Hatchback,1390600.0
+Hyundai,2019,114898,203,1.6,4,7,5.0,14.0,49,7.4,8.3,Directa (EV),Híbrido,SUV,550500.0
+Nissan,2018,83203,370,0.0,4,4,0.0,76.8,400,8.2,6.9,Automática,Eléctrico,Hatchback,1052500.0
+Chevrolet,2026,7311,412,0.0,5,5,0.0,94.4,551,9.4,9.9,Automática,Eléctrico,SUV,1800000.0
+Hyundai,2018,153942,437,0.0,4,2,0.0,98.1,516,9.5,8.3,Automática,Eléctrico,SUV,1156600.0
+Tesla,2025,15857,245,0.0,4,5,0.0,63.9,379,6.6,9.8,Manual,Eléctrico,SUV,1475300.0
+Honda,2019,113831,399,0.0,4,7,0.0,64.0,326,7.4,6.0,Automática,Eléctrico,Hatchback,1046700.0
+Toyota,2025,21354,219,2.0,5,5,4.1,15.0,52,7.3,9.3,Automática,Híbrido,Sedán,1119900.0
+Chevrolet,2020,136575,76,1.0,5,4,4.5,0.0,0,6.2,6.6,Manual,Gasolina,Sedán,297700.0
+Hyundai,2023,34932,186,2.5,5,5,5.9,0.0,0,8.4,9.9,Manual,Gasolina,SUV,949100.0
+Honda,2020,98671,291,2.5,2,5,5.0,17.1,59,9.4,5.8,Automática,Híbrido,SUV,688400.0
+Ford,2024,13739,140,1.5,4,5,4.6,0.0,0,7.5,7.6,CVT,Gasolina,SUV,832100.0
+Toyota,2026,5008,192,2.0,4,5,5.4,0.0,0,9.0,9.0,Manual,Gasolina,SUV,1096100.0
+Toyota,2019,100601,375,0.0,5,5,0.0,97.4,451,8.5,7.2,Automática,Eléctrico,SUV,1150100.0
+Ford,2022,79076,283,0.0,4,7,0.0,50.7,247,7.5,7.3,Automática,Eléctrico,SUV,1016000.0
+Nissan,2023,24836,486,0.0,4,7,0.0,84.6,473,6.6,9.9,CVT,Eléctrico,SUV,1752700.0
+Ford,2021,83293,93,1.0,5,5,4.5,0.0,0,8.8,7.1,Manual,Gasolina,Hatchback,464500.0
+Toyota,2021,64609,290,3.5,2,5,9.6,0.0,0,9.4,8.0,Automática,Gasolina,Hatchback,813700.0
+Toyota,2021,32526,92,1.0,4,5,4.5,0.0,0,8.7,5.3,Automática,Gasolina,SUV,576200.0
+Hyundai,2019,95447,323,3.5,4,5,10.4,0.0,0,6.1,9.2,Manual,Gasolina,SUV,737100.0
+Volkswagen,2021,103601,144,1.8,4,4,6.4,0.0,0,6.9,8.2,Directa (EV),Gasolina,Pickup,490200.0
+Honda,2018,63905,236,2.5,5,5,7.9,0.0,0,6.3,7.0,CVT,Gasolina,SUV,586700.0
+Ford,2023,40460,350,0.0,4,5,0.0,67.3,346,8.3,5.1,Automática,Eléctrico,SUV,1282400.0
+Honda,2018,68454,246,2.5,4,2,4.8,6.9,0,9.0,8.0,Automática,Híbrido,Hatchback,715600.0
+Ford,2023,35439,199,2.0,4,5,5.4,0.0,0,6.4,5.1,Directa (EV),Gasolina,SUV,763000.0
+Tesla,2018,150693,82,1.0,4,5,4.5,0.0,0,9.4,5.0,Automática,Gasolina,Sedán,241900.0
+Toyota,2023,38198,179,2.0,4,5,5.7,1.5,0,8.2,8.1,Directa (EV),Híbrido,Pickup,861600.0
+Volkswagen,2025,26409,208,2.5,4,5,7.1,0.0,0,8.8,5.9,Directa (EV),Gasolina,Sedán,911000.0
+Hyundai,2019,123271,306,0.0,2,7,0.0,54.0,300,9.9,6.0,Automática,Eléctrico,Hatchback,838300.0
+Volkswagen,2019,79117,104,1.0,4,2,4.5,0.0,0,6.3,8.3,Directa (EV),Gasolina,Hatchback,499100.0
+Volkswagen,2021,54942,242,2.5,4,5,6.5,0.0,0,9.6,5.3,Automática,Gasolina,Crossover,774300.0
+Volkswagen,2020,54704,119,1.8,4,5,4.5,0.0,0,6.5,6.6,CVT,Gasolina,Sedán,489700.0
+Honda,2021,45520,140,1.5,5,5,4.5,0.0,0,7.6,5.7,Automática,Gasolina,SUV,628700.0
+Ford,2024,33532,288,2.5,5,5,4.6,17.4,60,9.4,7.9,Automática,Híbrido,SUV,1154300.0
+Kia,2018,101327,219,2.5,5,4,4.8,6.7,0,9.6,8.3,Manual,Híbrido,SUV,566500.0
+Tesla,2023,33269,252,2.5,4,5,4.4,6.7,0,8.0,8.6,CVT,Híbrido,Sedán,1133900.0
+Chevrolet,2020,37732,228,3.0,4,5,8.4,0.0,0,8.4,6.3,Automática,Gasolina,SUV,689600.0
+Volkswagen,2024,31061,145,1.6,4,5,5.8,2.2,0,8.8,5.4,Manual,Híbrido,SUV,666400.0
+Nissan,2019,75913,197,1.6,4,5,4.4,13.8,48,9.3,5.4,Automática,Híbrido,Sedán,554900.0
+Honda,2019,84141,335,0.0,2,5,0.0,52.4,310,6.5,7.1,Automática,Eléctrico,SUV,978400.0
+Hyundai,2021,72702,267,3.0,4,5,6.7,0.0,0,9.2,9.7,Automática,Gasolina,Hatchback,905300.0
+Chevrolet,2018,16938,122,1.2,5,5,4.5,0.0,0,7.9,6.1,Automática,Gasolina,Hatchback,492600.0
+Kia,2020,38134,238,2.0,4,5,4.3,12.6,44,7.8,6.3,Automática,Híbrido,Crossover,724300.0
+Nissan,2026,10592,219,1.8,2,5,4.9,9.5,0,7.7,5.5,Automática,Híbrido,SUV,1074800.0
+Kia,2024,24933,236,2.5,5,5,7.5,0.0,0,8.0,8.0,Automática,Gasolina,Crossover,994300.0
+Chevrolet,2024,4825,110,1.2,4,5,4.5,0.0,0,9.8,8.4,Automática,Gasolina,Pickup,924900.0
+Volkswagen,2021,34101,125,1.5,5,5,4.5,0.0,0,8.2,8.2,Automática,Gasolina,Sedán,735500.0
+Nissan,2019,164534,303,0.0,5,4,0.0,60.0,301,9.8,9.3,Directa (EV),Eléctrico,Sedán,871200.0
+Kia,2021,50534,280,3.0,5,7,8.5,0.0,0,6.7,7.4,Automática,Gasolina,SUV,852900.0
+Hyundai,2023,58226,350,0.0,4,4,0.0,63.6,358,8.9,5.7,Directa (EV),Eléctrico,SUV,1219600.0
+Ford,2020,81149,171,1.6,4,5,6.5,7.8,0,9.2,6.4,CVT,Híbrido,SUV,587500.0
+Toyota,2018,85511,482,0.0,4,5,0.0,98.8,586,8.7,8.3,Manual,Eléctrico,SUV,1415400.0
+Ford,2025,22652,399,0.0,4,5,0.0,75.3,426,8.4,8.1,Manual,Eléctrico,Hatchback,1584900.0
+Chevrolet,2022,11081,172,2.5,4,5,8.4,0.0,0,8.3,7.7,CVT,Gasolina,SUV,759400.0
+Honda,2022,28059,386,0.0,4,4,0.0,61.6,335,9.4,8.4,Automática,Eléctrico,Sedán,1439600.0
+Toyota,2021,55168,186,2.0,4,5,5.0,0.0,0,9.3,8.2,Manual,Gasolina,Pickup,783400.0
+Tesla,2023,23199,442,0.0,4,5,0.0,88.3,437,6.5,9.4,CVT,Eléctrico,SUV,1800000.0
+Hyundai,2020,62899,236,2.0,5,5,5.5,14.9,52,9.4,7.9,Manual,Híbrido,Crossover,815100.0
+Tesla,2026,7707,195,2.0,5,4,6.0,0.0,0,7.7,8.9,CVT,Gasolina,Sedán,1164700.0
+Nissan,2022,56378,202,1.6,4,5,5.2,7.9,0,7.0,6.2,Automática,Híbrido,Crossover,761900.0
+Toyota,2020,112596,241,0.0,4,5,0.0,50.1,245,9.5,8.4,CVT,Eléctrico,Sedán,838700.0
+Tesla,2018,108642,268,2.5,5,5,6.3,0.0,0,7.7,9.5,Manual,Gasolina,Sedán,778200.0
+Tesla,2023,55894,206,1.8,4,5,5.3,8.7,0,9.2,6.9,Automática,Híbrido,Sedán,894400.0
+Kia,2019,88077,156,2.0,5,5,4.8,5.2,0,7.1,8.9,Automática,Híbrido,Hatchback,623500.0
+Ford,2020,62652,284,0.0,5,7,0.0,59.1,310,6.0,8.6,Manual,Eléctrico,Pickup,1077600.0
+Kia,2018,152339,96,1.2,2,5,4.5,0.0,0,8.0,5.3,Directa (EV),Gasolina,SUV,150000.0
+Toyota,2026,4581,206,2.0,5,5,5.0,0.0,0,6.4,7.9,Automática,Gasolina,Crossover,1020600.0
+Toyota,2025,20063,153,2.0,2,5,6.4,0.0,0,9.0,5.7,CVT,Gasolina,SUV,830600.0
+Chevrolet,2019,113066,274,2.5,4,5,4.4,14.1,49,7.1,9.8,Automática,Híbrido,SUV,761600.0
+Kia,2025,23048,98,1.0,4,5,4.5,0.0,0,7.8,9.1,Automática,Gasolina,Hatchback,866900.0
+BMW,2026,3669,451,0.0,4,5,0.0,88.2,432,6.3,5.5,Automática,Eléctrico,Sedán,1800000.0
+Ford,2018,137766,145,2.0,5,5,6.2,0.0,0,7.1,5.6,Automática,Gasolina,SUV,163900.0
+Toyota,2022,36378,199,1.8,2,5,5.0,9.6,0,9.1,8.0,Automática,Híbrido,Crossover,838600.0
+Chevrolet,2025,22864,308,3.5,4,4,9.7,0.0,0,6.6,6.7,Automática,Gasolina,Crossover,1110600.0
+Kia,2019,106055,98,1.2,4,5,4.5,0.0,0,8.6,5.2,CVT,Gasolina,Crossover,249500.0
+Ford,2021,84009,234,3.5,5,4,10.9,0.0,0,9.7,7.7,CVT,Gasolina,Crossover,740500.0
+Kia,2024,17949,178,1.5,5,5,4.5,0.0,0,8.7,6.9,Automática,Gasolina,Sedán,872500.0
+Tesla,2020,93286,275,2.5,5,4,4.7,15.8,55,9.2,5.5,Automática,Híbrido,Hatchback,797900.0
+Chevrolet,2022,73540,261,0.0,4,5,0.0,53.8,251,6.4,9.0,Automática,Eléctrico,SUV,993800.0
+Ford,2025,19160,251,2.5,4,5,4.0,8.7,0,7.0,9.6,Manual,Híbrido,Crossover,1186300.0
+Volkswagen,2020,56715,437,0.0,2,5,0.0,98.5,510,9.6,8.8,Automática,Eléctrico,SUV,1539600.0
+Nissan,2021,86234,426,0.0,4,5,0.0,78.6,463,8.9,9.1,Automática,Eléctrico,SUV,1429600.0
+Nissan,2026,6227,157,1.8,4,5,4.9,5.7,0,8.6,6.1,Directa (EV),Híbrido,SUV,951500.0
+Ford,2024,13255,284,0.0,4,5,0.0,64.0,377,8.7,6.3,CVT,Eléctrico,SUV,1161000.0
+Kia,2018,71529,190,1.6,4,5,5.2,8.1,0,7.7,6.0,Automática,Híbrido,Sedán,546900.0
+Chevrolet,2021,54421,268,2.5,5,5,6.7,0.0,0,6.2,8.8,Automática,Gasolina,Pickup,825200.0
+Nissan,2021,99128,231,2.0,4,5,4.5,10.3,36,9.1,9.7,Automática,Híbrido,Hatchback,737300.0
+Chevrolet,2026,8660,188,1.8,2,5,4.5,0.0,0,8.7,8.6,CVT,Gasolina,Sedán,995900.0
+Nissan,2023,60577,197,2.0,4,5,5.4,4.9,0,7.9,9.4,Manual,Híbrido,Hatchback,797000.0
+Tesla,2026,6464,217,1.8,5,2,5.9,15.1,52,9.6,8.2,Automática,Híbrido,SUV,1290300.0
+Kia,2023,54790,219,2.0,5,5,4.5,0.0,0,7.3,6.9,CVT,Gasolina,SUV,778800.0
+Tesla,2023,26029,116,1.2,5,7,4.5,0.0,0,7.2,7.1,Automática,Gasolina,Sedán,772200.0
+Nissan,2022,54122,284,0.0,4,5,0.0,65.6,346,9.5,5.4,Automática,Eléctrico,Pickup,1097300.0
+Volkswagen,2022,62129,239,1.8,5,5,5.5,16.6,58,9.2,5.2,Automática,Híbrido,Hatchback,766700.0
+Volkswagen,2019,57753,131,1.2,4,5,4.5,0.0,0,8.1,8.5,Automática,Gasolina,SUV,603300.0
+Tesla,2025,19259,220,2.5,2,5,4.2,2.3,0,6.5,7.2,Automática,Híbrido,SUV,1156000.0
+Volkswagen,2025,28119,181,2.5,5,5,4.5,2.0,0,6.9,7.8,Automática,Híbrido,Sedán,907800.0
+Nissan,2018,120998,153,1.6,4,5,5.4,3.6,0,8.6,7.8,Automática,Híbrido,SUV,430000.0
+Ford,2025,23505,434,0.0,4,5,0.0,93.5,524,7.5,6.4,Automática,Eléctrico,Sedán,1700100.0
+Tesla,2022,9856,194,1.8,4,5,4.9,8.3,0,9.3,7.4,CVT,Híbrido,Sedán,1040000.0
+Honda,2019,136739,266,3.5,4,5,9.8,0.0,0,9.8,7.4,Automática,Gasolina,SUV,606900.0
+Kia,2019,84416,262,0.0,5,4,0.0,62.7,341,9.2,6.9,Automática,Eléctrico,Crossover,878500.0
+Volkswagen,2023,31238,421,0.0,4,5,0.0,80.3,437,7.5,9.1,CVT,Eléctrico,SUV,1530900.0
+Volkswagen,2026,5650,92,1.0,4,5,4.5,0.0,0,9.2,7.3,CVT,Gasolina,Sedán,801000.0
+Toyota,2018,51509,353,3.5,4,5,9.4,0.0,0,7.4,8.0,CVT,Gasolina,SUV,879000.0
+BMW,2023,56671,162,2.0,4,5,6.3,0.0,0,6.7,9.5,Automática,Gasolina,Pickup,927400.0
+Tesla,2026,5329,197,2.5,4,5,4.5,3.4,0,6.1,9.3,Automática,Híbrido,Hatchback,1181600.0
+Hyundai,2025,13568,177,1.8,4,5,4.6,2.1,0,7.5,9.5,CVT,Híbrido,Pickup,1005900.0
+Volkswagen,2023,39647,191,1.6,4,5,6.3,10.3,36,9.6,6.4,CVT,Híbrido,SUV,789400.0
+Kia,2020,107068,351,0.0,4,7,0.0,64.2,384,7.0,5.2,Automática,Eléctrico,Hatchback,936200.0
+Honda,2025,18788,238,2.5,5,7,4.7,11.0,38,6.8,6.3,Directa (EV),Híbrido,Sedán,1065000.0
+Volkswagen,2026,3180,280,3.0,4,4,6.3,0.0,0,9.9,6.4,Automática,Gasolina,SUV,1183600.0
+Honda,2018,117809,95,1.0,4,5,4.5,0.0,0,6.1,9.5,Directa (EV),Gasolina,SUV,301800.0
+Nissan,2026,4142,211,2.5,4,7,8.0,0.0,0,9.1,8.2,Directa (EV),Gasolina,SUV,1136200.0
+Nissan,2023,11814,285,3.0,4,7,8.8,0.0,0,7.3,5.4,CVT,Gasolina,Crossover,981100.0
+BMW,2023,62944,239,2.5,5,4,5.1,7.0,0,6.1,5.7,Directa (EV),Híbrido,Pickup,910100.0
+Ford,2021,76059,241,0.0,5,2,0.0,66.1,374,9.7,5.8,CVT,Eléctrico,Sedán,977900.0
+Hyundai,2018,99338,123,1.2,4,4,5.1,0.0,0,6.6,8.2,Automática,Gasolina,Sedán,358200.0
+Toyota,2025,15926,155,1.6,5,7,4.7,1.6,0,8.2,8.7,Automática,Híbrido,SUV,985400.0
+BMW,2019,131912,247,2.0,4,4,5.1,17.3,60,7.1,9.3,Automática,Híbrido,Sedán,796200.0
+Chevrolet,2018,206963,281,3.0,4,5,10.0,0.0,0,6.3,9.7,Automática,Gasolina,SUV,392000.0
+Toyota,2019,103463,230,3.0,4,5,10.1,0.0,0,6.2,6.0,CVT,Gasolina,Crossover,434400.0
+Tesla,2018,66992,99,1.2,4,2,4.5,0.0,0,6.5,6.5,Automática,Gasolina,Crossover,476700.0
+Kia,2018,96748,262,3.5,4,5,11.4,0.0,0,6.3,6.2,Automática,Gasolina,SUV,566600.0
+Chevrolet,2026,6861,494,0.0,5,5,0.0,95.6,451,9.0,6.8,Manual,Eléctrico,Hatchback,1800000.0
+Chevrolet,2018,22116,230,2.5,4,5,7.6,0.0,0,7.9,9.6,Directa (EV),Gasolina,SUV,906700.0
+BMW,2021,73358,116,1.0,5,5,4.5,0.0,0,7.4,7.9,Automática,Gasolina,Sedán,638100.0
+Ford,2023,48109,240,2.0,5,5,5.4,16.5,57,7.7,8.7,Automática,Híbrido,SUV,1012400.0
+BMW,2024,43263,307,0.0,4,5,0.0,62.9,365,9.7,7.5,Automática,Eléctrico,SUV,1384500.0
+Tesla,2019,126663,315,3.5,4,5,10.0,0.0,0,9.6,5.1,CVT,Gasolina,Hatchback,714600.0
+Volkswagen,2023,43556,152,1.8,4,2,6.8,0.0,0,8.9,5.3,Automática,Gasolina,Sedán,715200.0
+Volkswagen,2024,45146,162,2.0,5,5,5.2,0.0,0,9.5,7.7,CVT,Gasolina,SUV,848300.0
+Ford,2019,151070,198,2.5,4,5,8.5,0.0,0,7.3,8.6,Automática,Gasolina,SUV,410500.0
+Tesla,2019,90838,238,3.0,2,5,10.0,0.0,0,7.5,6.1,Automática,Gasolina,Crossover,662700.0
+Ford,2024,34181,226,2.5,4,5,5.4,8.4,0,8.5,8.6,Directa (EV),Híbrido,SUV,978500.0
+Honda,2018,41911,310,3.5,4,5,9.7,0.0,0,8.5,9.1,Automática,Gasolina,Hatchback,903000.0
+Volkswagen,2025,9294,106,1.0,2,5,4.5,0.0,0,7.9,7.1,Automática,Gasolina,Hatchback,766700.0
+Chevrolet,2020,56206,255,0.0,2,5,0.0,61.5,296,7.6,8.7,Automática,Eléctrico,Sedán,1036800.0
+Hyundai,2023,35789,155,1.8,4,5,4.5,0.0,0,9.9,7.0,Automática,Gasolina,SUV,713900.0
+Kia,2026,3807,87,1.0,4,5,4.5,0.0,0,9.3,8.4,Manual,Gasolina,Pickup,849800.0
+Tesla,2023,41496,313,3.5,4,5,10.3,0.0,0,7.7,8.8,Automática,Gasolina,SUV,1216900.0
+Toyota,2026,5172,498,0.0,4,5,0.0,99.0,591,8.9,10.0,Automática,Eléctrico,Crossover,1800000.0
+Ford,2024,40708,121,1.5,4,5,4.5,0.0,0,7.1,6.7,Automática,Gasolina,Sedán,683100.0
+Kia,2026,5050,385,0.0,4,5,0.0,92.9,531,6.4,7.1,CVT,Eléctrico,Sedán,1661200.0
+Toyota,2019,21398,221,2.5,4,5,4.6,6.5,0,7.4,5.8,CVT,Híbrido,Pickup,755100.0
+Kia,2025,18754,94,1.0,4,4,4.5,0.0,0,7.6,6.0,Manual,Gasolina,Hatchback,741000.0
+Hyundai,2025,17914,464,0.0,4,5,0.0,97.6,474,6.1,8.5,Manual,Eléctrico,Crossover,1800000.0
+Toyota,2019,64138,144,1.8,4,5,4.9,0.0,0,9.3,9.6,Automática,Gasolina,SUV,590200.0
+BMW,2021,68089,157,2.0,2,4,6.4,0.0,0,7.4,7.0,Automática,Gasolina,Crossover,617100.0
+Nissan,2024,19247,352,0.0,4,5,0.0,67.5,335,8.3,5.9,Automática,Eléctrico,Hatchback,1356700.0
+BMW,2021,73256,182,1.8,2,5,5.4,3.7,0,6.3,6.4,Automática,Híbrido,Hatchback,710300.0
+Volkswagen,2021,123924,268,2.5,5,5,4.6,16.3,57,6.7,7.3,Automática,Híbrido,SUV,721400.0
+Nissan,2023,16721,185,2.5,5,5,6.9,0.0,0,9.6,6.5,Manual,Gasolina,SUV,862600.0
+BMW,2023,34772,148,1.2,5,5,4.5,0.0,0,8.4,6.2,Manual,Gasolina,Crossover,861600.0
+Nissan,2020,60410,260,2.5,5,5,3.7,16.6,58,9.8,8.7,Directa (EV),Híbrido,SUV,882600.0
+Nissan,2026,5133,173,1.8,4,5,5.8,0.0,0,10.0,5.0,Automática,Gasolina,SUV,933900.0
+Chevrolet,2019,120597,92,1.0,4,4,4.5,0.0,0,7.5,7.7,Manual,Gasolina,SUV,285400.0
+Ford,2023,49599,191,2.5,4,5,7.8,0.0,0,7.2,9.0,CVT,Gasolina,SUV,811200.0
+Ford,2024,38487,161,2.0,2,5,5.9,0.0,0,9.4,6.3,Manual,Gasolina,SUV,743000.0
+Chevrolet,2026,6060,328,0.0,4,5,0.0,67.1,400,10.0,8.0,Automática,Eléctrico,Sedán,1540200.0
+Kia,2020,43625,141,1.8,5,2,4.9,0.0,0,8.5,8.3,Automática,Gasolina,Pickup,679400.0
+Honda,2020,49018,272,0.0,4,5,0.0,52.7,238,9.2,8.3,Automática,Eléctrico,SUV,1041900.0
+Kia,2024,37462,307,3.0,4,5,8.6,0.0,0,9.1,7.2,Automática,Gasolina,SUV,1054800.0
+Toyota,2021,69758,169,1.8,4,5,5.2,6.4,0,7.4,6.7,CVT,Híbrido,Sedán,662000.0
+Toyota,2025,25561,124,1.2,4,5,4.5,0.0,0,8.3,9.2,Automática,Gasolina,Sedán,871700.0
+Nissan,2024,32932,133,1.5,4,4,4.5,0.0,0,9.3,8.8,Automática,Gasolina,Sedán,844600.0
+BMW,2022,32705,264,3.0,5,5,8.6,0.0,0,8.8,6.6,CVT,Gasolina,Hatchback,1020000.0
+BMW,2024,24780,242,3.0,4,5,7.4,0.0,0,6.1,5.5,CVT,Gasolina,Sedán,1008900.0
+Ford,2020,92685,227,2.5,5,7,4.7,8.5,0,7.3,5.4,Automática,Híbrido,Crossover,646400.0
+Tesla,2019,111309,518,0.0,4,4,0.0,89.8,484,6.6,5.5,CVT,Eléctrico,Sedán,1428600.0
+Kia,2023,53971,220,2.0,5,5,5.7,16.5,57,6.9,7.9,Automática,Híbrido,Sedán,833700.0
+Volkswagen,2019,58544,99,1.2,4,5,4.5,0.0,0,9.6,5.3,Automática,Gasolina,Sedán,470200.0
+Hyundai,2020,46773,115,1.2,4,4,4.5,0.0,0,6.1,6.7,Automática,Gasolina,Sedán,523100.0
+BMW,2023,39342,156,2.0,4,5,4.8,0.0,0,6.9,8.8,Manual,Gasolina,Hatchback,909800.0
+Hyundai,2022,79921,158,1.6,5,4,4.8,4.5,0,7.2,6.5,Directa (EV),Híbrido,Pickup,635100.0
+Nissan,2025,13836,290,2.5,5,5,5.2,15.7,54,8.5,8.8,Automática,Híbrido,SUV,1226000.0
+Hyundai,2026,6909,235,0.0,2,5,0.0,57.2,258,8.1,8.7,Manual,Eléctrico,Sedán,1413200.0
+Volkswagen,2020,89831,99,1.2,2,4,4.5,0.0,0,6.9,6.2,Automática,Gasolina,Sedán,360800.0
+Chevrolet,2020,97780,179,1.6,5,2,3.5,8.4,0,6.7,8.6,Manual,Híbrido,SUV,631800.0
+Volkswagen,2020,121275,85,1.0,4,5,4.5,0.0,0,6.9,8.7,Automática,Gasolina,Crossover,444800.0
+Hyundai,2023,63866,273,2.5,4,4,4.8,14.9,52,8.0,7.0,Automática,Híbrido,Sedán,940900.0
+Volkswagen,2018,81783,157,1.8,4,5,4.6,4.3,0,7.1,6.1,CVT,Híbrido,Hatchback,423800.0
+Honda,2024,9021,182,1.6,2,5,5.0,15.2,53,9.8,7.6,Manual,Híbrido,SUV,965600.0
+Nissan,2018,78930,194,1.8,5,5,5.8,11.3,39,7.9,9.6,Automática,Híbrido,Sedán,662100.0
+Kia,2022,55362,105,1.2,5,5,4.5,0.0,0,6.2,8.2,Automática,Gasolina,SUV,562200.0
+Chevrolet,2025,15830,231,1.8,4,4,4.9,16.5,57,8.9,5.9,Automática,Híbrido,Sedán,1037000.0
+BMW,2021,109293,317,3.5,4,5,9.7,0.0,0,7.3,8.4,Automática,Gasolina,Hatchback,1016100.0
+Toyota,2022,54338,190,1.8,5,4,5.0,6.2,0,8.6,7.1,CVT,Híbrido,Sedán,763100.0
+Kia,2021,80381,113,1.0,2,5,4.5,0.0,0,7.1,8.0,Directa (EV),Gasolina,Hatchback,491200.0
+Toyota,2021,70778,161,1.6,5,5,4.5,5.5,0,8.3,8.7,Automática,Híbrido,Sedán,677700.0
+Nissan,2025,15920,405,0.0,4,5,0.0,74.3,438,9.1,7.6,Automática,Eléctrico,Crossover,1606400.0
+Chevrolet,2019,32255,364,0.0,4,2,0.0,94.9,492,9.7,9.1,CVT,Eléctrico,Sedán,1463700.0
+Ford,2018,99327,268,0.0,5,5,0.0,59.1,292,7.0,8.6,Automática,Eléctrico,Pickup,859100.0
+BMW,2020,162620,233,2.5,4,5,4.4,8.1,0,7.3,8.1,Manual,Híbrido,Hatchback,670300.0
+Honda,2026,3511,171,1.8,4,7,5.6,3.4,0,7.9,5.8,Automática,Híbrido,Crossover,934300.0
+Ford,2021,26072,183,2.0,4,5,5.0,2.7,0,9.7,9.2,CVT,Híbrido,SUV,869200.0
+Nissan,2022,88855,225,0.0,4,5,0.0,55.5,330,9.6,9.7,Manual,Eléctrico,Hatchback,992800.0
+Kia,2019,112262,206,2.0,4,5,4.9,0.0,0,6.4,5.7,CVT,Gasolina,SUV,416500.0
+Honda,2021,70123,390,0.0,5,7,0.0,98.6,444,6.5,7.4,CVT,Eléctrico,Sedán,1280400.0
+Volkswagen,2019,130880,212,0.0,5,5,0.0,55.0,289,8.0,6.3,Automática,Eléctrico,SUV,546800.0
+Hyundai,2019,65054,208,1.8,4,5,4.7,13.5,47,6.4,8.8,CVT,Híbrido,Sedán,743900.0
+Honda,2021,63654,291,3.0,4,5,9.0,0.0,0,7.4,8.6,CVT,Gasolina,Crossover,827200.0
+Nissan,2023,55372,262,3.0,2,5,8.0,0.0,0,6.6,5.7,Automática,Gasolina,Sedán,834200.0
+Tesla,2024,51103,361,0.0,2,5,0.0,61.7,279,8.5,9.4,Automática,Eléctrico,SUV,1539500.0
+Hyundai,2020,47617,110,1.2,4,5,4.5,0.0,0,9.8,5.9,Automática,Gasolina,SUV,554200.0
+Toyota,2020,111299,437,0.0,5,5,0.0,99.9,578,10.0,9.0,Automática,Eléctrico,SUV,1326800.0
+BMW,2023,47345,102,1.2,4,4,4.5,0.0,0,7.5,7.3,Automática,Gasolina,SUV,772200.0
+Toyota,2020,82239,227,3.0,5,5,7.5,0.0,0,8.4,6.6,Manual,Gasolina,Sedán,639600.0
+Honda,2019,89768,276,0.0,2,5,0.0,51.9,239,9.4,5.8,Automática,Eléctrico,SUV,856100.0
+Toyota,2025,9692,164,2.0,4,5,5.1,2.8,0,6.5,5.8,Directa (EV),Híbrido,Sedán,903100.0
+Nissan,2022,71335,244,1.8,4,5,5.1,17.5,61,8.8,8.3,Automática,Híbrido,Crossover,895300.0
+Volkswagen,2018,75402,168,1.6,4,5,5.5,6.1,0,7.6,7.8,Automática,Híbrido,Hatchback,446400.0
+Kia,2020,49928,81,1.0,2,5,4.5,0.0,0,6.8,5.6,Automática,Gasolina,Crossover,433700.0
+BMW,2025,23312,166,1.8,5,5,4.9,1.6,0,7.6,5.6,Automática,Híbrido,Sedán,964800.0
+Toyota,2021,83360,270,3.0,4,5,8.7,0.0,0,6.3,5.4,Automática,Gasolina,Sedán,662700.0
+Toyota,2024,30790,406,0.0,5,5,0.0,67.1,397,8.8,8.7,Automática,Eléctrico,Sedán,1534700.0
+Honda,2019,122386,447,0.0,4,5,0.0,83.4,391,7.0,8.6,Automática,Eléctrico,Sedán,1220100.0
+Kia,2024,44259,119,1.2,5,5,4.5,0.0,0,7.2,5.3,CVT,Gasolina,Sedán,689900.0
+Ford,2022,77548,224,2.0,4,5,5.3,15.7,54,6.5,7.8,CVT,Híbrido,SUV,753000.0
+Toyota,2022,44490,205,2.0,5,5,5.1,11.5,40,9.5,5.4,Automática,Híbrido,Sedán,726800.0
+Nissan,2023,56197,202,2.5,2,5,6.5,0.0,0,8.0,9.5,CVT,Gasolina,SUV,825500.0
+Tesla,2026,6423,305,0.0,5,5,0.0,51.6,241,8.3,9.5,CVT,Eléctrico,Pickup,1620100.0
+BMW,2023,66162,308,3.5,5,5,9.2,0.0,0,8.3,8.5,Automática,Gasolina,SUV,1166100.0
+Toyota,2025,17257,172,1.8,4,5,5.3,0.0,0,7.6,9.6,Directa (EV),Gasolina,SUV,1083900.0
+Nissan,2024,26435,210,1.8,2,5,5.7,15.6,54,6.8,9.1,CVT,Híbrido,SUV,1052500.0
+Nissan,2026,4772,229,1.8,4,5,5.6,16.6,58,9.0,9.1,Automática,Híbrido,SUV,1190200.0
+BMW,2021,70164,208,2.5,5,5,4.3,3.5,0,6.5,7.8,Automática,Híbrido,Sedán,796400.0
+Ford,2019,104001,162,1.8,4,5,4.7,1.6,0,6.4,6.5,Automática,Híbrido,SUV,434800.0
+Nissan,2024,34859,264,2.5,4,4,4.4,14.5,50,8.8,6.1,Automática,Híbrido,SUV,1061600.0
+Tesla,2023,46888,190,2.5,4,5,4.5,2.9,0,6.8,6.6,CVT,Híbrido,Pickup,865000.0
+Nissan,2018,124815,117,1.2,2,5,4.5,0.0,0,7.2,8.1,Automática,Gasolina,Hatchback,343400.0
+Nissan,2026,5554,91,1.0,5,5,4.5,0.0,0,7.9,5.9,CVT,Gasolina,SUV,784000.0
+Nissan,2026,4254,252,3.0,2,5,8.0,0.0,0,7.8,6.3,CVT,Gasolina,SUV,1107500.0
+Volkswagen,2019,61205,271,3.5,4,7,10.2,0.0,0,8.8,7.3,Manual,Gasolina,Sedán,789500.0
+Volkswagen,2020,103351,206,2.0,5,5,4.8,9.8,0,8.5,6.2,CVT,Híbrido,Hatchback,509800.0
+Ford,2022,62465,70,1.0,4,4,4.5,0.0,0,8.6,7.9,Automática,Gasolina,SUV,548100.0
+Toyota,2022,20594,113,1.2,4,4,4.5,0.0,0,8.9,9.6,Automática,Gasolina,Sedán,854900.0
+Nissan,2018,139289,162,1.8,2,5,5.0,0.0,0,7.2,8.7,Manual,Gasolina,Sedán,337600.0
+Kia,2025,29282,357,0.0,4,5,0.0,90.3,452,7.3,8.3,Automática,Eléctrico,Sedán,1517400.0
+Toyota,2025,13704,447,0.0,4,5,0.0,77.7,418,7.8,7.9,Automática,Eléctrico,Hatchback,1726800.0
+Ford,2021,73395,224,1.8,5,5,4.7,14.6,51,7.2,7.4,Directa (EV),Híbrido,Sedán,758600.0
+Chevrolet,2024,25265,283,0.0,4,4,0.0,74.3,371,9.9,5.9,CVT,Eléctrico,SUV,1280800.0
+Toyota,2020,94335,172,1.6,4,5,5.2,8.8,0,9.3,9.5,Automática,Híbrido,SUV,660000.0
+Toyota,2023,25675,152,1.6,4,5,5.9,1.9,0,6.7,6.2,CVT,Híbrido,SUV,677200.0
+Hyundai,2026,5857,236,3.5,4,4,10.2,0.0,0,6.0,5.5,CVT,Gasolina,Pickup,1009400.0
+Honda,2018,135364,202,2.0,5,4,5.1,8.8,0,6.2,8.8,Automática,Híbrido,Pickup,516100.0
+Hyundai,2022,76242,163,1.6,4,4,4.5,4.4,0,7.0,5.9,Automática,Híbrido,SUV,562000.0
+Tesla,2021,75382,181,1.8,4,4,5.4,8.9,0,6.5,6.9,Directa (EV),Híbrido,Sedán,714600.0
+Volkswagen,2025,15965,261,2.5,4,5,5.1,12.4,43,8.1,5.1,Automática,Híbrido,SUV,1057600.0
+Volkswagen,2018,47851,179,1.8,4,4,5.2,8.3,0,9.4,5.7,Automática,Híbrido,SUV,687600.0
+Honda,2026,4484,238,1.6,4,5,5.3,17.1,59,8.9,5.9,Automática,Híbrido,SUV,1161700.0
+BMW,2023,35430,439,0.0,4,4,0.0,95.9,515,6.9,5.3,CVT,Eléctrico,SUV,1642600.0
+BMW,2021,50649,256,3.0,4,7,8.3,0.0,0,7.6,8.3,Automática,Gasolina,Sedán,975600.0
+Ford,2026,6119,181,1.8,5,5,5.4,8.5,0,8.0,9.2,Automática,Híbrido,SUV,1143800.0
+Honda,2022,47846,257,3.5,4,5,10.9,0.0,0,9.2,6.9,Automática,Gasolina,Sedán,822600.0
+Toyota,2022,57098,239,2.5,5,5,4.9,5.2,0,9.4,9.4,Directa (EV),Híbrido,Hatchback,962500.0
+BMW,2022,75647,251,2.0,5,5,4.5,16.7,58,9.6,6.1,Automática,Híbrido,SUV,904500.0
+Nissan,2018,88180,102,1.2,4,5,4.5,0.0,0,8.0,6.6,Manual,Gasolina,Hatchback,356000.0
+Kia,2018,54982,261,2.0,4,2,5.4,17.8,62,8.8,5.8,Directa (EV),Híbrido,Sedán,730600.0
+Toyota,2025,13789,162,1.8,2,5,4.5,0.0,0,6.4,8.1,Automática,Gasolina,SUV,927800.0
+Tesla,2025,21501,199,2.5,4,5,4.9,1.4,0,8.3,7.1,Directa (EV),Híbrido,Hatchback,1060900.0
+Nissan,2023,51491,293,3.0,5,5,8.1,0.0,0,7.0,8.1,Directa (EV),Gasolina,Sedán,998300.0
+Nissan,2021,74933,194,1.8,4,4,4.6,6.3,0,7.7,8.8,Directa (EV),Híbrido,Hatchback,726000.0
+Honda,2019,129022,158,1.8,4,5,5.7,0.0,0,8.5,7.7,Automática,Gasolina,SUV,461100.0
+Ford,2019,84409,196,1.6,4,5,5.6,10.3,36,7.0,8.1,Manual,Híbrido,SUV,659700.0
+Tesla,2026,10104,124,1.2,4,4,4.5,0.0,0,6.2,9.7,CVT,Gasolina,SUV,1040900.0
+BMW,2022,68727,483,0.0,4,5,0.0,85.0,396,6.0,6.5,Directa (EV),Eléctrico,SUV,1593300.0
+Honda,2021,10483,430,0.0,5,4,0.0,76.6,398,6.1,6.8,Automática,Eléctrico,SUV,1509300.0
+BMW,2018,163222,331,0.0,4,5,0.0,87.8,407,6.0,8.6,CVT,Eléctrico,SUV,980600.0
+Honda,2024,22330,208,1.8,5,5,5.3,11.7,40,6.4,8.1,Automática,Híbrido,SUV,1021400.0
+Honda,2020,51113,220,2.5,4,5,4.9,4.2,0,7.0,5.9,Automática,Híbrido,SUV,726100.0
+Honda,2023,49332,229,3.0,4,5,9.1,0.0,0,6.9,6.9,Automática,Gasolina,Sedán,811600.0
+Ford,2022,22712,156,1.5,4,7,4.5,0.0,0,9.9,7.3,CVT,Gasolina,Sedán,825600.0
+Honda,2022,41481,148,2.0,2,4,6.7,0.0,0,7.2,7.1,Automática,Gasolina,Sedán,591500.0
+Chevrolet,2022,82027,204,1.6,4,7,5.1,16.1,56,6.5,5.9,Manual,Híbrido,SUV,721200.0
+Kia,2018,120911,293,0.0,5,5,0.0,53.1,274,8.2,9.6,Directa (EV),Eléctrico,Hatchback,918600.0
+BMW,2018,129616,108,1.2,5,5,4.5,0.0,0,9.4,8.8,Automática,Gasolina,Hatchback,401800.0
+Toyota,2020,60920,500,0.0,4,5,0.0,81.3,372,8.7,7.4,Manual,Eléctrico,Sedán,1509700.0
+Hyundai,2021,32155,260,2.0,4,4,4.5,16.0,56,7.2,8.4,Automática,Híbrido,Crossover,908000.0
+Tesla,2022,66722,226,2.5,2,5,4.3,4.6,0,8.2,9.5,Automática,Híbrido,SUV,974800.0
+Volkswagen,2019,117907,83,1.0,5,5,4.5,0.0,0,8.9,5.7,CVT,Gasolina,Crossover,262600.0
+Ford,2025,23309,248,2.5,2,5,7.2,0.0,0,8.9,6.3,Directa (EV),Gasolina,Hatchback,1002900.0
+Toyota,2019,96272,190,1.8,5,5,5.0,5.6,0,8.7,7.7,Manual,Híbrido,Hatchback,555600.0
+Nissan,2026,4065,272,2.5,4,5,4.9,12.9,45,9.5,9.0,CVT,Híbrido,Sedán,1298000.0
+Chevrolet,2019,163133,221,3.0,4,5,7.4,0.0,0,9.5,5.2,Automática,Gasolina,Sedán,325500.0
+Volkswagen,2026,6959,176,1.8,5,5,4.7,3.9,0,8.3,9.9,Automática,Híbrido,Sedán,1150200.0
+Hyundai,2024,28261,326,0.0,2,4,0.0,60.5,278,7.7,7.3,Manual,Eléctrico,Hatchback,1315200.0
+Toyota,2025,16983,349,0.0,4,5,0.0,70.1,412,8.6,6.8,Automática,Eléctrico,SUV,1483400.0
+Volkswagen,2019,94487,320,0.0,4,5,0.0,70.1,320,9.3,6.5,Automática,Eléctrico,Hatchback,947900.0
+Toyota,2024,40696,188,2.0,4,4,4.9,0.0,0,6.0,5.9,Manual,Gasolina,SUV,799800.0
+Chevrolet,2023,44654,280,3.5,4,4,11.5,0.0,0,10.0,9.0,Automática,Gasolina,Hatchback,1019200.0
+Hyundai,2021,84887,158,2.0,4,5,4.9,1.6,0,6.7,9.8,Automática,Híbrido,Sedán,656300.0
+Nissan,2024,31513,279,3.5,5,5,9.7,0.0,0,7.9,7.1,Manual,Gasolina,Sedán,993300.0
+Honda,2021,63528,211,2.5,2,5,6.9,0.0,0,9.5,9.8,Manual,Gasolina,SUV,825200.0
+BMW,2019,109237,228,2.5,5,4,8.2,0.0,0,6.9,9.1,Directa (EV),Gasolina,SUV,681400.0
+Nissan,2024,36032,143,1.5,4,5,4.5,0.0,0,7.9,7.4,Manual,Gasolina,SUV,791700.0
+Honda,2025,16982,145,1.5,4,4,4.5,0.0,0,6.5,8.4,Automática,Gasolina,Hatchback,914300.0
+Ford,2019,67523,152,1.5,4,5,4.5,0.0,0,7.6,7.2,Directa (EV),Gasolina,Sedán,475800.0
+Kia,2022,60151,212,3.0,2,5,6.5,0.0,0,6.7,7.8,CVT,Gasolina,SUV,738800.0
+Tesla,2018,104663,97,1.2,4,5,4.5,0.0,0,7.5,5.3,Automática,Gasolina,Hatchback,344800.0
+Tesla,2024,24451,156,1.6,5,5,5.4,4.1,0,7.5,8.5,Automática,Híbrido,Sedán,983500.0
+BMW,2025,12945,157,1.8,4,7,4.7,1.5,0,10.0,5.3,CVT,Híbrido,Crossover,979800.0
+Hyundai,2023,47746,167,2.0,4,5,5.2,4.2,0,10.0,9.1,Manual,Híbrido,Crossover,918100.0
+Chevrolet,2022,63901,279,3.5,4,5,9.9,0.0,0,6.5,9.1,CVT,Gasolina,Sedán,873100.0
+Hyundai,2023,36959,136,1.5,5,5,4.5,0.0,0,8.9,6.2,CVT,Gasolina,Sedán,620300.0
+Chevrolet,2019,72601,227,1.6,5,5,5.8,12.5,43,6.2,6.6,Manual,Híbrido,SUV,619500.0
+Hyundai,2018,73771,184,1.6,4,2,4.9,17.6,61,6.1,7.4,Directa (EV),Híbrido,Hatchback,560000.0
+Kia,2024,33822,252,2.0,2,4,5.2,16.4,57,6.4,8.0,Manual,Híbrido,SUV,1020200.0
+Ford,2024,21960,130,1.5,4,5,4.5,0.0,0,9.9,6.4,Automática,Gasolina,SUV,795100.0
+Ford,2019,157234,481,0.0,2,5,0.0,96.4,443,9.8,8.0,CVT,Eléctrico,Hatchback,1210600.0
+Honda,2019,77691,197,2.0,4,5,5.7,0.0,0,6.8,6.5,Automática,Gasolina,Sedán,495400.0
+Volkswagen,2018,19542,115,1.0,4,5,4.5,0.0,0,6.6,5.3,CVT,Gasolina,Hatchback,460100.0
+Ford,2025,17818,202,2.0,4,5,4.4,9.8,0,7.0,5.0,Directa (EV),Híbrido,Hatchback,896100.0
+Ford,2025,17561,206,1.6,4,5,5.4,13.2,46,8.1,5.5,CVT,Híbrido,SUV,1034300.0
+Nissan,2018,139798,142,2.0,4,5,5.0,0.0,0,8.3,9.0,Manual,Gasolina,Pickup,400600.0
+Nissan,2025,19728,337,3.5,5,5,11.2,0.0,0,6.9,9.8,Automática,Gasolina,Hatchback,1216000.0
+Honda,2026,4332,244,2.0,5,5,3.8,17.4,60,9.0,7.1,Automática,Híbrido,Sedán,1114000.0
+Volkswagen,2021,59699,237,3.0,4,5,8.6,0.0,0,7.2,7.6,Automática,Gasolina,SUV,757800.0
+BMW,2018,113132,284,3.5,4,4,9.8,0.0,0,9.7,5.7,Manual,Gasolina,SUV,739800.0
+Nissan,2018,28399,233,2.5,4,7,6.8,0.0,0,8.6,7.8,CVT,Gasolina,Sedán,791300.0
+BMW,2020,112804,344,0.0,4,4,0.0,88.9,451,7.7,5.7,CVT,Eléctrico,Crossover,1150300.0
+Toyota,2022,39038,130,1.5,5,4,4.5,0.0,0,9.2,8.1,Automática,Gasolina,Sedán,705200.0
+Nissan,2022,79506,387,0.0,4,5,0.0,92.4,538,9.3,9.7,Automática,Eléctrico,SUV,1494200.0
+Kia,2026,6784,181,1.8,5,5,5.1,5.8,0,7.2,6.0,CVT,Híbrido,SUV,967600.0
+Volkswagen,2019,108887,424,0.0,5,5,0.0,86.2,462,7.4,8.8,Automática,Eléctrico,Sedán,1312200.0
+Honda,2019,124482,239,0.0,4,5,0.0,51.5,279,9.7,5.1,Manual,Eléctrico,Crossover,603800.0
+Toyota,2023,50023,222,2.5,4,5,7.8,0.0,0,6.7,6.9,CVT,Gasolina,Pickup,817600.0
+Volkswagen,2026,7345,104,1.0,2,5,4.5,0.0,0,6.2,5.6,CVT,Gasolina,SUV,761700.0
+Kia,2018,96409,70,1.0,4,5,4.5,0.0,0,7.8,6.8,Automática,Gasolina,Sedán,261800.0
+Volkswagen,2026,6744,113,1.0,4,5,4.5,0.0,0,9.2,5.9,Directa (EV),Gasolina,Sedán,852700.0
+Kia,2026,4825,209,1.8,4,5,4.6,2.9,0,9.1,6.9,Automática,Híbrido,SUV,1079600.0
+Kia,2026,5313,263,3.5,5,5,10.1,0.0,0,9.7,7.1,Directa (EV),Gasolina,Sedán,1174800.0
+BMW,2022,89364,218,2.5,4,7,7.5,0.0,0,8.1,6.5,Automática,Gasolina,SUV,823600.0
+Hyundai,2026,4383,157,1.5,4,2,5.1,0.0,0,6.4,8.3,Automática,Gasolina,Crossover,1047300.0
+Toyota,2021,69394,325,0.0,4,5,0.0,70.9,326,8.4,9.6,Directa (EV),Eléctrico,SUV,1254300.0
+Volkswagen,2019,93404,153,1.5,4,5,4.7,0.0,0,9.1,7.0,Automática,Gasolina,Pickup,442800.0
+Chevrolet,2023,37649,249,2.5,4,7,7.5,0.0,0,6.4,6.0,CVT,Gasolina,SUV,811700.0
+Toyota,2021,77316,345,3.5,5,2,8.7,0.0,0,6.7,6.4,CVT,Gasolina,SUV,872700.0
+Hyundai,2023,50256,371,0.0,4,5,0.0,60.5,349,6.0,9.3,Directa (EV),Eléctrico,Pickup,1413100.0
+Toyota,2020,53928,227,1.8,4,5,5.8,9.1,0,8.4,7.9,Directa (EV),Híbrido,SUV,743200.0
+Ford,2023,43418,133,1.5,2,5,4.5,0.0,0,9.5,7.3,Automática,Gasolina,Pickup,762100.0
+Chevrolet,2019,57528,305,3.5,4,5,10.6,0.0,0,8.7,5.7,CVT,Gasolina,Sedán,762600.0
+Hyundai,2019,113656,100,1.0,5,2,4.5,0.0,0,9.9,7.2,Automática,Gasolina,Sedán,283200.0
+BMW,2026,6352,350,3.5,4,5,9.6,0.0,0,6.3,6.4,Automática,Gasolina,Pickup,1322100.0
+Volkswagen,2024,30823,474,0.0,5,7,0.0,98.4,574,9.6,9.7,CVT,Eléctrico,SUV,1800000.0
+Tesla,2020,95134,265,2.5,4,5,5.2,12.8,44,9.3,9.4,Automática,Híbrido,Pickup,920900.0
+Hyundai,2018,92632,274,3.0,4,5,8.4,0.0,0,7.3,5.4,Manual,Gasolina,Crossover,580700.0
+Honda,2025,23484,321,0.0,2,2,0.0,77.9,437,9.9,7.6,Manual,Eléctrico,Sedán,1499800.0
+Volkswagen,2023,28721,108,1.0,4,7,4.5,0.0,0,7.2,6.1,Manual,Gasolina,SUV,709900.0
+Hyundai,2024,44118,169,1.6,4,5,5.9,12.9,45,9.6,7.1,Directa (EV),Híbrido,SUV,825100.0
+Ford,2026,4898,378,0.0,5,2,0.0,72.0,416,9.5,9.4,Automática,Eléctrico,SUV,1724000.0
+Tesla,2022,23468,158,1.5,4,5,4.5,0.0,0,9.0,7.6,Manual,Gasolina,Hatchback,890400.0
+Ford,2018,90829,271,2.5,4,5,4.7,16.1,56,8.3,6.7,Directa (EV),Híbrido,Sedán,678700.0
+Tesla,2024,25580,233,3.5,4,4,10.3,0.0,0,6.5,6.0,Automática,Gasolina,SUV,952800.0
+Honda,2022,47950,132,1.8,4,5,6.7,0.0,0,8.1,9.0,Automática,Gasolina,Hatchback,676900.0
+Volkswagen,2020,84022,145,1.8,4,4,4.7,0.0,0,7.4,8.1,Manual,Gasolina,Sedán,557900.0
+BMW,2026,8195,251,3.0,4,5,8.2,0.0,0,9.2,7.3,Automática,Gasolina,Hatchback,1187800.0
+Ford,2018,95481,273,2.5,4,5,4.5,14.2,49,9.0,6.1,Automática,Híbrido,SUV,674000.0
+Ford,2018,78485,289,0.0,2,5,0.0,63.5,370,9.6,6.7,CVT,Eléctrico,Crossover,907400.0
+Kia,2018,63697,158,1.8,4,5,5.2,5.7,0,6.1,9.8,Manual,Híbrido,SUV,549400.0
+Tesla,2020,65827,391,0.0,2,5,0.0,97.4,550,9.2,7.6,Directa (EV),Eléctrico,Sedán,1387100.0
+Nissan,2023,15570,449,0.0,4,5,0.0,79.5,443,9.8,7.0,CVT,Eléctrico,SUV,1685300.0
+Volkswagen,2020,59146,180,1.8,4,2,5.5,0.0,0,9.2,7.6,CVT,Gasolina,Sedán,594500.0
+Tesla,2025,25464,149,1.8,5,5,5.9,0.0,0,6.5,8.9,Automática,Gasolina,Crossover,1012100.0
+Kia,2019,65299,276,3.5,4,5,10.4,0.0,0,6.3,6.7,Automática,Gasolina,Sedán,707600.0
+Toyota,2026,7257,213,2.5,4,5,4.5,1.8,0,6.1,5.9,Automática,Híbrido,Hatchback,945100.0
+Tesla,2020,46111,405,0.0,4,5,0.0,98.4,514,8.5,7.9,Directa (EV),Eléctrico,SUV,1543400.0
+BMW,2022,85879,227,2.5,2,5,7.7,0.0,0,8.5,8.3,Automática,Gasolina,SUV,888300.0
+Volkswagen,2025,29025,204,2.5,5,7,4.8,4.5,0,9.9,8.6,Automática,Híbrido,Sedán,1040100.0
+Kia,2019,107730,213,1.6,2,4,5.6,13.3,46,7.6,9.4,Manual,Híbrido,SUV,632900.0
+Toyota,2023,69877,148,1.6,5,5,5.6,5.7,0,7.3,6.9,Automática,Híbrido,SUV,656500.0
+Chevrolet,2022,60404,184,1.8,5,2,6.3,0.0,0,8.5,5.4,Automática,Gasolina,Sedán,648200.0
+Kia,2026,7537,259,3.5,4,7,9.5,0.0,0,9.3,9.8,Manual,Gasolina,Crossover,1204800.0
+Chevrolet,2022,76714,147,1.8,4,4,4.6,0.0,0,9.7,7.2,Automática,Gasolina,SUV,659400.0
+Volkswagen,2019,95391,153,1.5,4,4,4.6,0.0,0,9.2,8.1,Automática,Gasolina,SUV,506600.0
+Ford,2022,26057,154,1.5,4,5,5.1,0.0,0,7.7,8.3,Automática,Gasolina,SUV,724000.0
+Kia,2021,83357,163,1.6,4,5,5.2,3.3,0,8.5,7.7,CVT,Híbrido,Sedán,623200.0
+Honda,2024,25281,246,2.5,2,5,8.0,0.0,0,9.4,6.0,Manual,Gasolina,Crossover,931300.0
+Chevrolet,2023,36434,429,0.0,2,5,0.0,68.0,347,8.0,8.8,Automática,Eléctrico,SUV,1542300.0
+BMW,2019,98936,235,2.5,4,5,5.1,9.5,0,6.9,9.0,Manual,Híbrido,Sedán,796600.0
+Honda,2022,64193,187,2.0,4,2,4.9,4.0,0,6.7,7.8,Automática,Híbrido,SUV,694800.0
+Hyundai,2024,31501,95,1.0,5,5,4.5,0.0,0,6.0,7.4,Directa (EV),Gasolina,SUV,746800.0
+Hyundai,2024,36357,150,1.6,4,5,5.0,7.8,0,8.9,5.6,Automática,Híbrido,SUV,716100.0
+Toyota,2022,41276,341,0.0,5,5,0.0,72.2,421,6.4,5.4,CVT,Eléctrico,SUV,1221000.0
+Ford,2026,5914,150,2.0,4,5,5.8,0.0,0,7.0,6.7,Directa (EV),Gasolina,Sedán,919800.0
+Volkswagen,2021,84679,101,1.0,4,5,4.5,0.0,0,7.2,6.6,CVT,Gasolina,Sedán,428400.0
+Kia,2020,124092,287,2.5,4,5,4.7,16.6,58,8.2,9.8,Automática,Híbrido,Hatchback,805300.0
+Nissan,2021,112781,259,3.0,4,4,9.2,0.0,0,7.6,8.9,Automática,Gasolina,Sedán,694600.0
+BMW,2022,61793,310,3.0,4,5,9.0,0.0,0,8.7,8.3,CVT,Gasolina,Pickup,1057500.0
+Chevrolet,2023,53760,145,1.5,4,5,4.7,0.0,0,6.2,7.6,Automática,Gasolina,Sedán,656700.0
+Volkswagen,2020,129521,183,2.0,5,7,5.8,0.0,0,6.5,5.8,CVT,Gasolina,Hatchback,416200.0
+Honda,2019,69874,232,1.6,4,5,5.3,16.5,57,8.0,9.9,CVT,Híbrido,SUV,814100.0
+Hyundai,2021,79853,256,3.0,4,2,7.4,0.0,0,7.3,6.9,CVT,Gasolina,SUV,793900.0
+BMW,2022,67830,493,0.0,5,4,0.0,92.1,491,7.2,5.5,Automática,Eléctrico,Sedán,1637600.0
+Nissan,2021,97852,192,1.8,5,5,5.0,9.6,0,6.3,7.5,CVT,Híbrido,Sedán,510200.0
+Kia,2020,48434,186,2.0,4,5,5.1,9.0,0,9.6,9.4,CVT,Híbrido,Sedán,844600.0
+Toyota,2025,12363,195,1.6,4,4,4.6,10.6,37,8.8,9.4,CVT,Híbrido,Sedán,1101500.0
+Nissan,2021,66470,419,0.0,5,7,0.0,66.8,352,6.5,5.1,Automática,Eléctrico,SUV,1181200.0
+BMW,2019,101331,205,2.5,4,5,5.6,0.0,0,6.3,9.4,Automática,Gasolina,SUV,760000.0
+Nissan,2019,123685,353,0.0,4,7,0.0,72.1,360,9.9,6.4,Automática,Eléctrico,SUV,960700.0
+BMW,2018,119596,156,1.8,4,5,5.7,1.7,0,8.7,5.2,Automática,Híbrido,Hatchback,402300.0
+BMW,2021,62668,182,2.0,5,5,5.0,7.4,0,7.7,9.2,Manual,Híbrido,SUV,897900.0
+Tesla,2026,6832,214,2.0,2,5,5.1,12.6,44,8.8,9.3,Directa (EV),Híbrido,SUV,1347800.0
+Chevrolet,2024,33010,161,1.8,5,5,5.5,0.0,0,9.0,8.0,Automática,Gasolina,SUV,857300.0
+Hyundai,2024,47450,188,2.0,4,5,4.8,0.0,0,9.1,7.9,CVT,Gasolina,SUV,863000.0
+Tesla,2024,31656,208,1.8,5,5,4.9,10.7,37,7.9,9.1,Automática,Híbrido,SUV,1107800.0
+Kia,2025,15701,159,1.8,4,5,6.2,0.0,0,7.7,8.9,Automática,Gasolina,Hatchback,992300.0
+Tesla,2018,117286,238,2.5,4,7,4.5,10.8,37,6.0,9.5,Automática,Híbrido,Sedán,738500.0
+Ford,2025,19190,115,1.2,5,5,4.5,0.0,0,9.7,7.8,Automática,Gasolina,Sedán,840900.0
+Ford,2021,31438,96,1.0,4,5,4.5,0.0,0,8.4,9.8,Directa (EV),Gasolina,SUV,700400.0
+Hyundai,2021,65655,334,3.5,4,5,9.2,0.0,0,6.8,10.0,Automática,Gasolina,Sedán,1053100.0
+Nissan,2021,63783,147,1.5,2,5,5.1,0.0,0,9.7,5.6,Manual,Gasolina,Pickup,556200.0
+Chevrolet,2023,34385,170,1.8,2,4,3.9,1.8,0,9.7,9.2,Automática,Híbrido,Pickup,938900.0
+Hyundai,2024,40355,196,1.8,4,5,4.7,0.0,0,10.0,7.5,Directa (EV),Gasolina,Sedán,875100.0
+BMW,2023,31000,477,0.0,4,5,0.0,79.8,402,9.5,6.9,Automática,Eléctrico,Sedán,1780500.0
+Honda,2018,117491,193,1.6,4,5,5.3,9.2,0,10.0,8.1,Automática,Híbrido,SUV,517900.0
+Chevrolet,2025,17112,181,1.8,4,5,6.4,0.0,0,7.0,5.3,Automática,Gasolina,SUV,818200.0
+Chevrolet,2024,31076,185,2.0,4,5,4.4,4.6,0,9.4,7.5,Automática,Híbrido,Sedán,903500.0
+BMW,2023,47765,272,0.0,4,5,0.0,52.9,291,9.3,9.4,Automática,Eléctrico,Hatchback,1276000.0
+BMW,2023,23693,159,1.6,5,2,4.5,4.6,0,6.9,6.1,Directa (EV),Híbrido,SUV,861400.0
+Toyota,2022,57449,107,1.5,4,5,4.5,0.0,0,6.4,7.1,Manual,Gasolina,SUV,501300.0
+Hyundai,2023,74045,401,0.0,2,5,0.0,76.2,417,9.9,9.7,Manual,Eléctrico,Sedán,1557300.0
+BMW,2026,2886,240,2.5,5,4,5.1,10.6,37,7.2,7.1,Manual,Híbrido,Hatchback,1195100.0
+Ford,2026,5884,256,3.0,4,5,8.5,0.0,0,9.5,6.8,Automática,Gasolina,Sedán,1210400.0
+Kia,2025,24739,194,2.0,5,5,4.5,0.0,0,6.0,7.2,Automática,Gasolina,Hatchback,926500.0
+Honda,2026,6603,193,1.8,5,4,5.1,2.5,0,6.1,7.6,Directa (EV),Híbrido,SUV,996000.0
+Hyundai,2025,22127,146,2.0,5,4,6.8,0.0,0,7.9,8.2,CVT,Gasolina,SUV,909800.0
+Volkswagen,2025,3746,415,0.0,4,7,0.0,72.5,408,7.0,9.0,Directa (EV),Eléctrico,Pickup,1677500.0
+Ford,2018,122340,259,3.0,5,5,8.6,0.0,0,8.8,7.3,CVT,Gasolina,Pickup,478700.0
+Nissan,2022,40289,278,0.0,5,5,0.0,63.2,353,8.3,9.1,Automática,Eléctrico,SUV,1239200.0
+BMW,2021,72817,252,2.0,4,4,5.1,15.7,54,6.3,7.7,Automática,Híbrido,Sedán,952900.0
+Volkswagen,2019,89116,177,1.8,4,5,5.2,0.0,0,6.7,6.7,Automática,Gasolina,Hatchback,520600.0
+BMW,2025,31669,113,1.5,4,5,4.5,0.0,0,7.6,8.3,Automática,Gasolina,SUV,942600.0
+Chevrolet,2020,92214,166,1.8,4,5,4.5,2.4,0,6.7,8.6,Automática,Híbrido,Sedán,547100.0
+Ford,2021,63522,258,2.5,4,4,4.6,8.7,0,9.2,7.8,Automática,Híbrido,Crossover,912000.0
+Chevrolet,2024,14903,177,1.8,4,5,5.0,7.8,0,7.7,5.3,CVT,Híbrido,Sedán,895200.0
+Toyota,2026,6242,164,1.8,4,5,4.7,0.0,0,6.4,5.8,Directa (EV),Gasolina,Sedán,909200.0
+Chevrolet,2019,114696,205,2.5,4,5,7.5,0.0,0,7.9,6.4,CVT,Gasolina,Sedán,492400.0
+Toyota,2020,75905,341,3.5,4,5,9.3,0.0,0,6.4,6.4,Directa (EV),Gasolina,SUV,889700.0
+Toyota,2021,54875,149,1.6,4,5,5.0,2.0,0,6.5,8.4,Automática,Híbrido,SUV,641300.0
+Volkswagen,2018,82532,326,3.5,5,5,8.8,0.0,0,7.0,5.1,Automática,Gasolina,SUV,638000.0
+BMW,2024,35351,342,3.5,4,7,10.1,0.0,0,9.4,8.8,CVT,Gasolina,SUV,1292600.0
+Nissan,2019,112781,200,2.0,4,5,5.5,6.5,0,9.7,6.3,Automática,Híbrido,SUV,446400.0
+Chevrolet,2022,78501,387,0.0,4,5,0.0,84.7,383,9.3,6.6,Automática,Eléctrico,SUV,1329000.0
+Ford,2018,68170,159,1.8,4,5,4.8,0.0,0,7.3,7.6,Automática,Gasolina,Sedán,451800.0
+Toyota,2020,91675,116,1.2,5,7,4.5,0.0,0,7.1,6.1,Automática,Gasolina,Crossover,426600.0
+BMW,2019,86348,245,2.5,5,5,4.7,9.4,0,8.2,9.4,Manual,Híbrido,Sedán,861300.0
+Honda,2018,98864,226,1.8,4,5,3.8,12.4,43,8.9,5.4,Automática,Híbrido,Crossover,581700.0
+Hyundai,2024,34018,103,1.2,5,5,4.5,0.0,0,10.0,7.2,Manual,Gasolina,Sedán,642300.0
+Volkswagen,2022,61337,273,0.0,2,5,0.0,51.2,230,6.5,9.2,CVT,Eléctrico,Hatchback,1099600.0
+Nissan,2018,119978,362,0.0,4,2,0.0,89.9,440,6.2,8.1,Automática,Eléctrico,Sedán,996500.0
+Tesla,2023,27195,183,1.8,2,5,4.9,0.0,0,8.8,6.5,Automática,Gasolina,Sedán,987200.0
+Volkswagen,2022,40503,195,2.5,5,5,7.1,0.0,0,9.3,7.1,Automática,Gasolina,Pickup,845600.0
+Honda,2020,116632,213,1.8,4,5,5.2,15.6,54,9.4,8.5,Automática,Híbrido,Pickup,567300.0
+Hyundai,2024,27794,172,1.8,4,5,4.8,5.4,0,8.7,9.9,CVT,Híbrido,SUV,1019600.0
+Honda,2026,6612,275,3.5,5,5,11.0,0.0,0,9.8,9.5,CVT,Gasolina,Hatchback,1293100.0
+Chevrolet,2026,8109,209,1.6,4,5,5.2,10.9,38,8.0,6.7,CVT,Híbrido,SUV,1067200.0
+Toyota,2026,6926,179,1.8,2,5,5.0,6.9,0,9.7,10.0,Automática,Híbrido,Pickup,1171900.0
+Nissan,2019,106395,112,1.2,5,5,4.5,0.0,0,9.9,5.0,Manual,Gasolina,SUV,320100.0
+Kia,2020,101259,186,1.8,4,5,5.1,7.1,0,9.4,5.1,Manual,Híbrido,SUV,531900.0
+Toyota,2024,8833,365,0.0,4,5,0.0,97.2,437,7.2,9.1,Automática,Eléctrico,SUV,1608500.0
+Kia,2022,45180,110,1.2,4,2,5.4,0.0,0,6.8,6.0,Manual,Gasolina,SUV,603500.0
+Hyundai,2019,104058,162,1.5,4,5,4.5,0.0,0,8.2,5.3,Automática,Gasolina,Pickup,393200.0
+BMW,2020,114078,192,2.0,2,5,5.9,0.0,0,7.8,6.2,Manual,Gasolina,Sedán,587500.0
+Tesla,2023,42925,465,0.0,4,5,0.0,87.4,524,9.5,7.1,CVT,Eléctrico,Sedán,1751300.0
+Ford,2024,21552,296,0.0,2,5,0.0,55.7,293,6.4,8.7,Automática,Eléctrico,SUV,1282200.0
+Toyota,2026,4363,129,1.2,4,5,4.5,0.0,0,7.0,8.1,CVT,Gasolina,SUV,875600.0
+Nissan,2018,132051,226,2.5,5,4,5.2,2.4,0,9.0,6.2,Automática,Híbrido,Sedán,423800.0
+Honda,2024,27822,189,1.6,5,4,5.4,6.1,0,6.4,7.5,Automática,Híbrido,SUV,941700.0
+Nissan,2025,17956,201,1.6,4,5,5.0,10.4,36,7.3,9.6,Directa (EV),Híbrido,Crossover,1046300.0
+Hyundai,2020,93990,230,2.0,4,5,4.9,0.0,0,7.5,9.1,Directa (EV),Gasolina,Sedán,704400.0
+Kia,2021,2166,122,1.2,5,4,4.5,0.0,0,8.5,6.6,Automática,Gasolina,SUV,686400.0
+Honda,2023,70005,265,3.5,4,5,10.1,0.0,0,6.6,9.9,Automática,Gasolina,Hatchback,910000.0
+Ford,2024,22689,275,2.5,4,5,4.1,14.8,51,9.4,8.5,Automática,Híbrido,SUV,1183400.0
+Ford,2021,71322,229,3.0,5,5,9.4,0.0,0,7.8,5.3,Automática,Gasolina,Crossover,670300.0
+Toyota,2025,7771,344,0.0,5,5,0.0,74.1,389,9.7,5.2,CVT,Eléctrico,Hatchback,1436000.0
+Hyundai,2022,46394,116,1.0,5,5,4.5,0.0,0,7.9,5.8,Directa (EV),Gasolina,SUV,628400.0
+BMW,2018,144319,259,2.5,5,5,6.9,0.0,0,7.1,8.6,Manual,Gasolina,SUV,639400.0
+Hyundai,2021,23844,167,1.8,4,5,4.7,3.4,0,6.6,5.9,Automática,Híbrido,SUV,688700.0
+Kia,2020,107281,141,1.6,4,5,5.2,6.6,0,6.0,7.6,Manual,Híbrido,SUV,452300.0
+Nissan,2026,5452,302,3.0,4,5,8.4,0.0,0,8.1,5.5,Automática,Gasolina,Pickup,1218800.0
+Ford,2025,20922,148,2.0,4,5,6.0,0.0,0,6.4,9.6,Directa (EV),Gasolina,SUV,962400.0
+Nissan,2018,124355,291,0.0,4,2,0.0,55.5,268,7.6,6.7,Directa (EV),Eléctrico,Sedán,732200.0
+Nissan,2023,48179,155,1.5,5,5,4.5,0.0,0,8.4,9.5,Manual,Gasolina,Sedán,826900.0
+Nissan,2026,4270,138,1.2,5,5,4.5,0.0,0,7.1,9.7,Automática,Gasolina,Sedán,1023500.0
+Ford,2024,26354,293,0.0,4,7,0.0,52.6,237,6.7,5.0,Automática,Eléctrico,Sedán,1198100.0
+Volkswagen,2021,33845,165,1.8,5,5,5.8,0.0,0,9.1,7.3,Automática,Gasolina,Pickup,734800.0
+Chevrolet,2018,118721,127,1.2,5,5,4.5,0.0,0,9.8,5.1,CVT,Gasolina,SUV,327100.0
+Kia,2019,141061,150,1.2,4,5,4.5,0.0,0,6.4,9.5,Automática,Gasolina,SUV,386500.0
+Volkswagen,2022,21160,138,1.2,4,5,4.5,0.0,0,6.6,7.6,Automática,Gasolina,SUV,674200.0
+Kia,2022,40290,111,1.2,4,5,4.5,0.0,0,9.8,5.4,Automática,Gasolina,Hatchback,607000.0
+Honda,2025,16909,325,3.5,4,5,9.3,0.0,0,6.2,5.6,CVT,Gasolina,SUV,1082800.0
+Hyundai,2023,44426,171,2.0,4,5,5.4,0.0,0,9.9,6.9,Automática,Gasolina,Pickup,722000.0
+Hyundai,2025,23275,200,1.8,4,5,6.3,0.0,0,6.0,9.7,Directa (EV),Gasolina,SUV,997200.0
+Tesla,2019,85434,143,1.6,4,4,4.7,6.1,0,9.5,8.5,Directa (EV),Híbrido,Crossover,656000.0
+Hyundai,2020,69785,182,1.8,4,7,4.5,0.0,0,7.2,9.3,Directa (EV),Gasolina,SUV,726700.0
+Ford,2023,57443,151,1.8,5,4,5.4,0.0,0,9.8,6.8,Automática,Gasolina,Sedán,645600.0
+BMW,2020,95211,366,0.0,4,7,0.0,70.1,405,7.3,5.2,Automática,Eléctrico,SUV,1174000.0
+Toyota,2023,49545,154,2.0,5,7,5.0,1.6,0,8.6,9.9,Automática,Híbrido,SUV,924500.0
+Tesla,2023,43575,246,3.0,4,5,9.4,0.0,0,6.3,5.1,Automática,Gasolina,Sedán,912700.0
+Toyota,2019,119494,381,0.0,2,5,0.0,61.3,356,7.0,9.7,Automática,Eléctrico,SUV,1094500.0
+Kia,2024,23436,108,1.2,5,5,4.5,0.0,0,9.1,6.8,Manual,Gasolina,SUV,770800.0
+Toyota,2019,66219,93,1.2,4,5,4.5,0.0,0,8.1,5.1,Automática,Gasolina,Sedán,379500.0
+Toyota,2023,52445,209,1.6,4,5,5.2,17.3,60,9.7,8.4,Directa (EV),Híbrido,Crossover,981300.0
+Tesla,2018,46748,170,1.6,5,5,5.5,6.9,0,7.7,9.9,Automática,Híbrido,SUV,826800.0
+Honda,2020,80396,115,1.2,4,5,4.7,0.0,0,9.5,9.8,Manual,Gasolina,Pickup,611800.0
+Nissan,2019,80503,295,3.5,4,5,9.7,0.0,0,7.8,5.8,CVT,Gasolina,SUV,704600.0
+Hyundai,2024,15942,165,1.8,2,5,5.6,5.7,0,9.9,5.9,CVT,Híbrido,SUV,852300.0
+Hyundai,2021,45512,269,3.0,5,5,7.9,0.0,0,9.8,7.8,Directa (EV),Gasolina,SUV,895900.0
+Ford,2025,17346,547,0.0,4,5,0.0,92.7,417,7.3,8.2,CVT,Eléctrico,SUV,1800000.0
+Tesla,2023,56475,109,1.0,4,4,4.5,0.0,0,9.5,8.7,Directa (EV),Gasolina,Crossover,775000.0
+Ford,2021,51634,407,0.0,4,4,0.0,96.5,489,9.4,5.9,Automática,Eléctrico,Sedán,1388000.0
+BMW,2022,75840,231,2.0,4,5,4.3,15.6,54,6.8,9.8,Manual,Híbrido,Pickup,1070200.0
+BMW,2026,6126,401,0.0,5,4,0.0,81.4,459,8.5,8.2,Automática,Eléctrico,Crossover,1800000.0
+Ford,2024,43103,212,1.8,4,4,4.8,15.5,54,6.3,9.2,Automática,Híbrido,SUV,968200.0
+Tesla,2026,4791,233,1.8,4,5,4.6,16.4,57,9.3,7.7,Automática,Híbrido,Crossover,1299300.0
+Ford,2024,29511,201,2.5,4,2,8.0,0.0,0,6.7,7.1,Automática,Gasolina,SUV,897600.0
+Hyundai,2018,114528,308,3.5,5,5,11.2,0.0,0,6.3,9.9,Automática,Gasolina,Crossover,725100.0
+Volkswagen,2025,16922,253,2.5,4,5,6.7,0.0,0,7.6,7.9,Automática,Gasolina,Hatchback,1101400.0
+Chevrolet,2021,86966,281,0.0,5,5,0.0,52.4,252,8.3,9.3,Automática,Eléctrico,Sedán,1069500.0
+Toyota,2020,20603,375,0.0,5,5,0.0,70.2,384,9.4,9.8,Directa (EV),Eléctrico,Crossover,1472400.0
+Chevrolet,2024,54224,339,3.5,4,5,9.2,0.0,0,9.9,8.4,Automática,Gasolina,SUV,1121000.0
+Tesla,2020,100302,124,1.2,4,5,4.5,0.0,0,7.8,7.7,CVT,Gasolina,SUV,514400.0
+Chevrolet,2025,16958,138,1.5,4,5,4.5,0.0,0,6.2,5.0,Automática,Gasolina,SUV,789000.0
+BMW,2023,34267,186,1.8,5,5,4.8,9.6,0,9.0,5.2,Directa (EV),Híbrido,Sedán,913200.0
+Kia,2022,38404,214,2.5,4,4,6.6,0.0,0,8.3,6.0,Directa (EV),Gasolina,SUV,723200.0
+Toyota,2021,80203,235,2.5,4,7,5.6,2.1,0,7.8,5.9,CVT,Híbrido,Hatchback,649300.0
+Nissan,2025,23969,325,0.0,5,5,0.0,78.3,441,7.2,6.3,CVT,Eléctrico,Sedán,1428900.0
+Tesla,2025,17024,327,3.5,4,5,9.6,0.0,0,8.0,6.5,Automática,Gasolina,Sedán,1202100.0
+Toyota,2018,139637,97,1.0,4,5,4.5,0.0,0,7.4,6.8,Directa (EV),Gasolina,Sedán,150000.0
+Chevrolet,2026,4185,184,1.8,4,5,5.1,0.0,0,9.0,7.1,Directa (EV),Gasolina,SUV,1017900.0
+BMW,2022,34491,234,2.5,4,5,5.9,0.0,0,8.2,5.5,Directa (EV),Gasolina,Hatchback,984300.0
+Honda,2021,105893,150,1.5,5,5,4.5,0.0,0,9.5,5.2,CVT,Gasolina,Hatchback,477100.0
+Volkswagen,2023,50275,213,2.5,2,5,7.4,0.0,0,8.2,8.4,Automática,Gasolina,Crossover,915400.0
+Nissan,2023,61555,380,0.0,4,4,0.0,64.9,304,7.0,7.7,Directa (EV),Eléctrico,SUV,1333800.0
+Volkswagen,2019,64381,101,1.0,5,5,4.5,0.0,0,9.4,7.2,Automática,Gasolina,Sedán,453600.0
+Toyota,2025,12458,117,1.2,4,5,4.5,0.0,0,8.2,8.2,Manual,Gasolina,Crossover,898700.0
+BMW,2024,26413,322,0.0,5,5,0.0,53.0,271,6.8,9.1,Automática,Eléctrico,Hatchback,1462400.0
+BMW,2018,73981,165,1.6,5,4,5.5,7.2,0,8.5,7.1,Directa (EV),Híbrido,SUV,604700.0
+Chevrolet,2022,66696,253,3.5,4,5,9.1,0.0,0,7.4,8.2,Automática,Gasolina,SUV,788700.0
+Hyundai,2023,31484,205,2.5,2,7,5.3,7.2,0,9.4,9.8,Automática,Híbrido,Crossover,1048700.0
+Chevrolet,2021,40223,103,1.0,5,5,4.5,0.0,0,7.8,9.2,Manual,Gasolina,Hatchback,635800.0
+Hyundai,2019,94260,183,1.6,4,5,4.9,14.7,51,8.9,7.1,CVT,Híbrido,SUV,595800.0
+Hyundai,2021,37620,153,1.8,4,2,5.4,1.8,0,6.4,8.2,Manual,Híbrido,Hatchback,709300.0
+Nissan,2018,40818,227,1.8,5,5,4.2,16.3,57,7.6,5.9,Automática,Híbrido,Sedán,746500.0
+Chevrolet,2024,31332,272,3.0,2,5,9.0,0.0,0,9.9,7.8,Automática,Gasolina,SUV,1008100.0
+Honda,2019,37523,346,0.0,5,7,0.0,81.1,369,9.2,9.9,CVT,Eléctrico,SUV,1345800.0
+Ford,2019,113258,86,1.0,4,5,4.5,0.0,0,6.6,7.6,Directa (EV),Gasolina,Sedán,294200.0
+Ford,2026,3209,278,3.0,4,5,7.4,0.0,0,7.1,9.6,CVT,Gasolina,Sedán,1242300.0
+Chevrolet,2022,13667,144,2.0,4,5,5.9,0.0,0,7.3,7.0,Automática,Gasolina,Sedán,660200.0
+Chevrolet,2019,81186,117,1.0,5,2,4.5,0.0,0,8.6,10.0,Directa (EV),Gasolina,SUV,505500.0
+Volkswagen,2026,6289,277,3.0,4,5,8.7,0.0,0,9.0,7.9,Automática,Gasolina,Hatchback,1151300.0
+Nissan,2026,6982,338,0.0,5,5,0.0,65.5,379,9.0,5.2,Manual,Eléctrico,Crossover,1417700.0
+Chevrolet,2018,107848,393,0.0,4,7,0.0,70.1,323,8.0,7.9,Automática,Eléctrico,SUV,1105600.0
+Volkswagen,2020,50457,163,2.0,4,5,4.7,0.0,0,9.2,6.4,Automática,Gasolina,SUV,627900.0
+Hyundai,2021,81687,182,1.8,4,5,4.5,0.0,0,7.7,5.2,CVT,Gasolina,Crossover,551600.0
+BMW,2024,39601,180,2.0,4,5,5.6,0.0,0,6.5,9.1,Manual,Gasolina,Sedán,1076000.0
+BMW,2021,39473,259,3.5,4,5,9.7,0.0,0,8.3,6.4,Automática,Gasolina,Hatchback,985000.0
+Hyundai,2019,84569,204,2.5,4,7,8.2,0.0,0,9.8,9.0,Automática,Gasolina,Hatchback,680800.0
+Tesla,2024,27255,363,0.0,4,5,0.0,74.4,432,9.2,6.4,Automática,Eléctrico,Sedán,1505600.0
+Volkswagen,2023,45085,225,2.5,5,5,6.0,0.0,0,8.3,6.0,Manual,Gasolina,Pickup,821400.0
+Volkswagen,2020,72671,335,3.5,4,5,10.9,0.0,0,8.6,9.9,Automática,Gasolina,Hatchback,984600.0
+Hyundai,2023,41049,112,1.2,5,5,4.5,0.0,0,9.7,6.8,Automática,Gasolina,Sedán,661100.0
+Honda,2023,50985,255,0.0,2,5,0.0,50.8,250,7.7,8.0,CVT,Eléctrico,Sedán,1165900.0
+Kia,2022,33950,200,2.0,4,5,5.5,1.9,0,7.3,8.0,CVT,Híbrido,Sedán,838400.0
