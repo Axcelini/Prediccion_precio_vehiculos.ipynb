@@ -60,8 +60,3 @@ Toyota SUV 2025, automático, gasolina, 210 hp, 5,000 km, seguridad 8.5/10 y equ
 
 Dependencias: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`.
 
-## Autor
-
-**Axcel Francisco Salazar Alejo** · [@Axcelini](https://github.com/Axcelini)
-
-Docente: Frederik Timoteo Castillo Pedraza
